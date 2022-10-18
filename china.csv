@@ -1,0 +1,1800 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+China,CHN,2020,Agricultural land (sq. km),AG.LND.AGRI.K2,5285081
+China,CHN,2019,Agricultural land (sq. km),AG.LND.AGRI.K2,5285092
+China,CHN,2018,Agricultural land (sq. km),AG.LND.AGRI.K2,5285097
+China,CHN,2017,Agricultural land (sq. km),AG.LND.AGRI.K2,5285121
+China,CHN,2016,Agricultural land (sq. km),AG.LND.AGRI.K2,5285529
+China,CHN,2015,Agricultural land (sq. km),AG.LND.AGRI.K2,5286334
+China,CHN,2014,Agricultural land (sq. km),AG.LND.AGRI.K2,5286950
+China,CHN,2013,Agricultural land (sq. km),AG.LND.AGRI.K2,5288015
+China,CHN,2012,Agricultural land (sq. km),AG.LND.AGRI.K2,5287995
+China,CHN,2011,Agricultural land (sq. km),AG.LND.AGRI.K2,5288851
+China,CHN,2010,Agricultural land (sq. km),AG.LND.AGRI.K2,5289168
+China,CHN,2009,Agricultural land (sq. km),AG.LND.AGRI.K2,5290386
+China,CHN,2008,Agricultural land (sq. km),AG.LND.AGRI.K2,5284517.556
+China,CHN,2007,Agricultural land (sq. km),AG.LND.AGRI.K2,5278619.111
+China,CHN,2006,Agricultural land (sq. km),AG.LND.AGRI.K2,5272720.667
+China,CHN,2005,Agricultural land (sq. km),AG.LND.AGRI.K2,5266822.222
+China,CHN,2004,Agricultural land (sq. km),AG.LND.AGRI.K2,5260913.778
+China,CHN,2003,Agricultural land (sq. km),AG.LND.AGRI.K2,5255055.333
+China,CHN,2002,Agricultural land (sq. km),AG.LND.AGRI.K2,5249146.889
+China,CHN,2001,Agricultural land (sq. km),AG.LND.AGRI.K2,5243228.444
+China,CHN,2000,Agricultural land (sq. km),AG.LND.AGRI.K2,5237310
+China,CHN,1999,Agricultural land (sq. km),AG.LND.AGRI.K2,5237347.5
+China,CHN,1998,Agricultural land (sq. km),AG.LND.AGRI.K2,5237385
+China,CHN,1997,Agricultural land (sq. km),AG.LND.AGRI.K2,5237442.5
+China,CHN,1996,Agricultural land (sq. km),AG.LND.AGRI.K2,5237520
+China,CHN,1995,Agricultural land (sq. km),AG.LND.AGRI.K2,5237140
+China,CHN,1994,Agricultural land (sq. km),AG.LND.AGRI.K2,5237130
+China,CHN,1993,Agricultural land (sq. km),AG.LND.AGRI.K2,5191060
+China,CHN,1992,Agricultural land (sq. km),AG.LND.AGRI.K2,5151980
+China,CHN,1991,Agricultural land (sq. km),AG.LND.AGRI.K2,5122710
+China,CHN,1990,Agricultural land (sq. km),AG.LND.AGRI.K2,5065920
+China,CHN,1989,Agricultural land (sq. km),AG.LND.AGRI.K2,5003880
+China,CHN,1988,Agricultural land (sq. km),AG.LND.AGRI.K2,4942790
+China,CHN,1987,Agricultural land (sq. km),AG.LND.AGRI.K2,4886610
+China,CHN,1986,Agricultural land (sq. km),AG.LND.AGRI.K2,4833530
+China,CHN,1985,Agricultural land (sq. km),AG.LND.AGRI.K2,4772440
+China,CHN,1984,Agricultural land (sq. km),AG.LND.AGRI.K2,4654380
+China,CHN,1983,Agricultural land (sq. km),AG.LND.AGRI.K2,4538310
+China,CHN,1982,Agricultural land (sq. km),AG.LND.AGRI.K2,4434180
+China,CHN,1981,Agricultural land (sq. km),AG.LND.AGRI.K2,4338180
+China,CHN,1980,Agricultural land (sq. km),AG.LND.AGRI.K2,4285190
+China,CHN,1979,Agricultural land (sq. km),AG.LND.AGRI.K2,4239605
+China,CHN,1978,Agricultural land (sq. km),AG.LND.AGRI.K2,4193960
+China,CHN,1977,Agricultural land (sq. km),AG.LND.AGRI.K2,4134286.667
+China,CHN,1976,Agricultural land (sq. km),AG.LND.AGRI.K2,4075333.333
+China,CHN,1975,Agricultural land (sq. km),AG.LND.AGRI.K2,4016370
+China,CHN,1974,Agricultural land (sq. km),AG.LND.AGRI.K2,3970290
+China,CHN,1973,Agricultural land (sq. km),AG.LND.AGRI.K2,3903880
+China,CHN,1972,Agricultural land (sq. km),AG.LND.AGRI.K2,3847810
+China,CHN,1971,Agricultural land (sq. km),AG.LND.AGRI.K2,3801650
+China,CHN,1970,Agricultural land (sq. km),AG.LND.AGRI.K2,3755180
+China,CHN,1969,Agricultural land (sq. km),AG.LND.AGRI.K2,3709280
+China,CHN,1968,Agricultural land (sq. km),AG.LND.AGRI.K2,3663130
+China,CHN,1967,Agricultural land (sq. km),AG.LND.AGRI.K2,3627150
+China,CHN,1966,Agricultural land (sq. km),AG.LND.AGRI.K2,3591120
+China,CHN,1965,Agricultural land (sq. km),AG.LND.AGRI.K2,3555090
+China,CHN,1964,Agricultural land (sq. km),AG.LND.AGRI.K2,3517060
+China,CHN,1963,Agricultural land (sq. km),AG.LND.AGRI.K2,3488540
+China,CHN,1962,Agricultural land (sq. km),AG.LND.AGRI.K2,3460010
+China,CHN,1961,Agricultural land (sq. km),AG.LND.AGRI.K2,3432480
+China,CHN,2020,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.0768976600843
+China,CHN,2019,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.0770143746388
+China,CHN,2018,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.077067426709
+China,CHN,2017,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.0773345717245
+China,CHN,2016,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.0816654067681
+China,CHN,2015,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.090201435984
+China,CHN,2014,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.0967380472843
+China,CHN,2013,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1080381401584
+China,CHN,2012,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.107828313151
+China,CHN,2011,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1169108294991
+China,CHN,2010,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1202755223834
+China,CHN,2009,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1332002008976
+China,CHN,2008,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.0709365390941
+China,CHN,2007,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.0083515761775
+China,CHN,2006,Agricultural land (% of land area),AG.LND.AGRI.ZS,55.9457666238713
+China,CHN,2005,Agricultural land (% of land area),AG.LND.AGRI.ZS,55.8831828468425
+China,CHN,2004,Agricultural land (% of land area),AG.LND.AGRI.ZS,55.8204876430821
+China,CHN,2003,Agricultural land (% of land area),AG.LND.AGRI.ZS,55.7583318331087
+China,CHN,2002,Agricultural land (% of land area),AG.LND.AGRI.ZS,55.695637819864
+China,CHN,2001,Agricultural land (% of land area),AG.LND.AGRI.ZS,55.6328406499339
+China,CHN,2000,Agricultural land (% of land area),AG.LND.AGRI.ZS,55.5700446698569
+China,CHN,1999,Agricultural land (% of land area),AG.LND.AGRI.ZS,55.5703835980099
+China,CHN,1998,Agricultural land (% of land area),AG.LND.AGRI.ZS,55.5707814882368
+China,CHN,1997,Agricultural land (% of land area),AG.LND.AGRI.ZS,55.5713915865846
+China,CHN,1996,Agricultural land (% of land area),AG.LND.AGRI.ZS,55.5722138930535
+China,CHN,1995,Agricultural land (% of land area),AG.LND.AGRI.ZS,55.5681229787198
+China,CHN,1994,Agricultural land (% of land area),AG.LND.AGRI.ZS,55.5683116756343
+China,CHN,1993,Agricultural land (% of land area),AG.LND.AGRI.ZS,55.0794881942816
+China,CHN,1992,Agricultural land (% of land area),AG.LND.AGRI.ZS,54.6648317659929
+China,CHN,1991,Agricultural land (% of land area),AG.LND.AGRI.ZS,54.3542638628196
+China,CHN,1990,Agricultural land (% of land area),AG.LND.AGRI.ZS,53.7516963458667
+China,CHN,1989,Agricultural land (% of land area),AG.LND.AGRI.ZS,53.0934239607328
+China,CHN,1988,Agricultural land (% of land area),AG.LND.AGRI.ZS,52.4452315041269
+China,CHN,1987,Agricultural land (% of land area),AG.LND.AGRI.ZS,51.8491363623342
+China,CHN,1986,Agricultural land (% of land area),AG.LND.AGRI.ZS,51.2859336188959
+China,CHN,1985,Agricultural land (% of land area),AG.LND.AGRI.ZS,50.63774116229
+China,CHN,1984,Agricultural land (% of land area),AG.LND.AGRI.ZS,49.3850713075365
+China,CHN,1983,Agricultural land (% of land area),AG.LND.AGRI.ZS,48.1535162504364
+China,CHN,1982,Agricultural land (% of land area),AG.LND.AGRI.ZS,47.0486499792566
+China,CHN,1981,Agricultural land (% of land area),AG.LND.AGRI.ZS,46.0299978354703
+China,CHN,1980,Agricultural land (% of land area),AG.LND.AGRI.ZS,45.4677506291991
+China,CHN,1979,Agricultural land (% of land area),AG.LND.AGRI.ZS,44.9840737298242
+China,CHN,1978,Agricultural land (% of land area),AG.LND.AGRI.ZS,44.49976020406
+China,CHN,1977,Agricultural land (% of land area),AG.LND.AGRI.ZS,43.8665998951689
+China,CHN,1976,Agricultural land (% of land area),AG.LND.AGRI.ZS,43.2410332117025
+China,CHN,1975,Agricultural land (% of land area),AG.LND.AGRI.ZS,42.6154069789033
+China,CHN,1974,Agricultural land (% of land area),AG.LND.AGRI.ZS,42.1264337326387
+China,CHN,1973,Agricultural land (% of land area),AG.LND.AGRI.ZS,41.4217959192335
+China,CHN,1972,Agricultural land (% of land area),AG.LND.AGRI.ZS,40.8268698207901
+China,CHN,1971,Agricultural land (% of land area),AG.LND.AGRI.ZS,40.337092957866
+China,CHN,1970,Agricultural land (% of land area),AG.LND.AGRI.ZS,39.8440268655766
+China,CHN,1969,Agricultural land (% of land area),AG.LND.AGRI.ZS,39.3570087111526
+China,CHN,1968,Agricultural land (% of land area),AG.LND.AGRI.ZS,38.8673379524017
+China,CHN,1967,Agricultural land (% of land area),AG.LND.AGRI.ZS,38.4855751376702
+China,CHN,1966,Agricultural land (% of land area),AG.LND.AGRI.ZS,38.1032818020733
+China,CHN,1965,Agricultural land (% of land area),AG.LND.AGRI.ZS,37.7209884664764
+China,CHN,1964,Agricultural land (% of land area),AG.LND.AGRI.ZS,37.3174742962641
+China,CHN,1963,Agricultural land (% of land area),AG.LND.AGRI.ZS,37.0148651946481
+China,CHN,1962,Agricultural land (% of land area),AG.LND.AGRI.ZS,36.7121499888591
+China,CHN,1961,Agricultural land (% of land area),AG.LND.AGRI.ZS,36.4200452003777
+China,CHN,2020,Arable land (% of land area),AG.LND.ARBL.ZS,12.6765905798473
+China,CHN,2019,Arable land (% of land area),AG.LND.ARBL.ZS,12.6767072944018
+China,CHN,2018,Arable land (% of land area),AG.LND.ARBL.ZS,12.676760346472
+China,CHN,2017,Arable land (% of land area),AG.LND.ARBL.ZS,12.6770178210856
+China,CHN,2016,Arable land (% of land area),AG.LND.ARBL.ZS,12.6808167538056
+China,CHN,2015,Arable land (% of land area),AG.LND.ARBL.ZS,12.6893569275309
+China,CHN,2014,Arable land (% of land area),AG.LND.ARBL.ZS,12.6958930783302
+China,CHN,2013,Arable land (% of land area),AG.LND.ARBL.ZS,12.7071931712043
+China,CHN,2012,Arable land (% of land area),AG.LND.ARBL.ZS,12.7282023347818
+China,CHN,2011,Arable land (% of land area),AG.LND.ARBL.ZS,12.800416828082
+China,CHN,2010,Arable land (% of land area),AG.LND.ARBL.ZS,12.8778413090614
+China,CHN,2009,Arable land (% of land area),AG.LND.ARBL.ZS,12.9429683203196
+China,CHN,2008,Arable land (% of land area),AG.LND.ARBL.ZS,12.9226135155496
+China,CHN,2007,Arable land (% of land area),AG.LND.ARBL.ZS,12.8966344923446
+China,CHN,2006,Arable land (% of land area),AG.LND.ARBL.ZS,12.9030172525385
+China,CHN,2005,Arable land (% of land area),AG.LND.ARBL.ZS,12.8669586059388
+China,CHN,2004,Arable land (% of land area),AG.LND.ARBL.ZS,12.8408725348885
+China,CHN,2003,Arable land (% of land area),AG.LND.ARBL.ZS,12.8211547472436
+China,CHN,2002,Arable land (% of land area),AG.LND.ARBL.ZS,12.80143520109
+China,CHN,2001,Arable land (% of land area),AG.LND.ARBL.ZS,12.759858865325
+China,CHN,2000,Arable land (% of land area),AG.LND.ARBL.ZS,12.6970619754475
+China,CHN,1999,Arable land (% of land area),AG.LND.ARBL.ZS,12.697446393576
+China,CHN,1998,Arable land (% of land area),AG.LND.ARBL.ZS,12.6978442838029
+China,CHN,1997,Arable land (% of land area),AG.LND.ARBL.ZS,12.6989849024532
+China,CHN,1996,Arable land (% of land area),AG.LND.ARBL.ZS,12.731638427071
+China,CHN,1995,Arable land (% of land area),AG.LND.ARBL.ZS,12.7573020736956
+China,CHN,1994,Arable land (% of land area),AG.LND.ARBL.ZS,12.8761007016691
+China,CHN,1993,Arable land (% of land area),AG.LND.ARBL.ZS,12.9400817216942
+China,CHN,1992,Arable land (% of land area),AG.LND.ARBL.ZS,13.1104855660729
+China,CHN,1991,Arable land (% of land area),AG.LND.ARBL.ZS,13.320890811031
+China,CHN,1990,Arable land (% of land area),AG.LND.ARBL.ZS,13.2079956115174
+China,CHN,1989,Arable land (% of land area),AG.LND.ARBL.ZS,13.0387589167578
+China,CHN,1988,Arable land (% of land area),AG.LND.ARBL.ZS,12.9014596797554
+China,CHN,1987,Arable land (% of land area),AG.LND.ARBL.ZS,12.8294147169079
+China,CHN,1986,Arable land (% of land area),AG.LND.ARBL.ZS,12.8619888017299
+China,CHN,1985,Arable land (% of land area),AG.LND.ARBL.ZS,12.8211385650638
+China,CHN,1984,Arable land (% of land area),AG.LND.ARBL.ZS,12.1748559896527
+China,CHN,1983,Arable land (% of land area),AG.LND.ARBL.ZS,11.4646984987273
+China,CHN,1982,Arable land (% of land area),AG.LND.ARBL.ZS,10.8704071336185
+China,CHN,1981,Arable land (% of land area),AG.LND.ARBL.ZS,10.3503779438665
+China,CHN,1980,Arable land (% of land area),AG.LND.ARBL.ZS,10.2867153049228
+China,CHN,1979,Arable land (% of land area),AG.LND.ARBL.ZS,10.3008802420878
+China,CHN,1978,Arable land (% of land area),AG.LND.ARBL.ZS,10.315575701244
+China,CHN,1977,Arable land (% of land area),AG.LND.ARBL.ZS,10.3364429031012
+China,CHN,1976,Arable land (% of land area),AG.LND.ARBL.ZS,10.3560258533702
+China,CHN,1975,Arable land (% of land area),AG.LND.ARBL.ZS,10.3755136773729
+China,CHN,1974,Arable land (% of land area),AG.LND.ARBL.ZS,10.5316880112895
+China,CHN,1973,Arable land (% of land area),AG.LND.ARBL.ZS,10.4721635701932
+China,CHN,1972,Arable land (% of land area),AG.LND.ARBL.ZS,10.5223508440587
+China,CHN,1971,Arable land (% of land area),AG.LND.ARBL.ZS,10.5715831803665
+China,CHN,1970,Arable land (% of land area),AG.LND.ARBL.ZS,10.6175262873089
+China,CHN,1969,Arable land (% of land area),AG.LND.ARBL.ZS,10.6700478529821
+China,CHN,1968,Arable land (% of land area),AG.LND.ARBL.ZS,10.7193862934629
+China,CHN,1967,Arable land (% of land area),AG.LND.ARBL.ZS,10.7710590257515
+China,CHN,1966,Arable land (% of land area),AG.LND.ARBL.ZS,10.82273175804
+China,CHN,1965,Arable land (% of land area),AG.LND.ARBL.ZS,10.8712213651363
+China,CHN,1964,Arable land (% of land area),AG.LND.ARBL.ZS,10.8974290958863
+China,CHN,1963,Arable land (% of land area),AG.LND.ARBL.ZS,10.9184377221556
+China,CHN,1962,Arable land (% of land area),AG.LND.ARBL.ZS,10.9393402442518
+China,CHN,1961,Arable land (% of land area),AG.LND.ARBL.ZS,10.9708531836557
+China,CHN,2010,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,83906.6875
+China,CHN,2000,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,83906.6875
+China,CHN,1990,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,83906.6875
+China,CHN,2010,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.907172261
+China,CHN,2000,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.907172261
+China,CHN,1990,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.907172261
+China,CHN,2010,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,23928.50781
+China,CHN,2000,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,23928.50781
+China,CHN,1990,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,23928.50781
+China,CHN,2010,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.258707371
+China,CHN,2000,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.258707371
+China,CHN,1990,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.258707371
+China,CHN,2010,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,1.165879632
+China,CHN,2000,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,1.165879632
+China,CHN,1990,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,1.165879632
+China,CHN,2020,Forest area (sq. km),AG.LND.FRST.K2,2199781.8
+China,CHN,2019,Forest area (sq. km),AG.LND.FRST.K2,2180986.1
+China,CHN,2018,Forest area (sq. km),AG.LND.FRST.K2,2162190.4
+China,CHN,2017,Forest area (sq. km),AG.LND.FRST.K2,2143394.7
+China,CHN,2016,Forest area (sq. km),AG.LND.FRST.K2,2124598.67
+China,CHN,2015,Forest area (sq. km),AG.LND.FRST.K2,2102942.5
+China,CHN,2014,Forest area (sq. km),AG.LND.FRST.K2,2083574.76
+China,CHN,2013,Forest area (sq. km),AG.LND.FRST.K2,2064207.02
+China,CHN,2012,Forest area (sq. km),AG.LND.FRST.K2,2044839.28
+China,CHN,2011,Forest area (sq. km),AG.LND.FRST.K2,2025471.54
+China,CHN,2010,Forest area (sq. km),AG.LND.FRST.K2,2006103.8
+China,CHN,2009,Forest area (sq. km),AG.LND.FRST.K2,1982493.97
+China,CHN,2008,Forest area (sq. km),AG.LND.FRST.K2,1958884.14
+China,CHN,2007,Forest area (sq. km),AG.LND.FRST.K2,1935274.31
+China,CHN,2006,Forest area (sq. km),AG.LND.FRST.K2,1911664.48
+China,CHN,2005,Forest area (sq. km),AG.LND.FRST.K2,1888054.65
+China,CHN,2004,Forest area (sq. km),AG.LND.FRST.K2,1864444.82
+China,CHN,2003,Forest area (sq. km),AG.LND.FRST.K2,1840834.99
+China,CHN,2002,Forest area (sq. km),AG.LND.FRST.K2,1817225.16
+China,CHN,2001,Forest area (sq. km),AG.LND.FRST.K2,1793615.33
+China,CHN,2000,Forest area (sq. km),AG.LND.FRST.K2,1770005.5
+China,CHN,1999,Forest area (sq. km),AG.LND.FRST.K2,1750145.54
+China,CHN,1998,Forest area (sq. km),AG.LND.FRST.K2,1730285.58
+China,CHN,1997,Forest area (sq. km),AG.LND.FRST.K2,1710425.62
+China,CHN,1996,Forest area (sq. km),AG.LND.FRST.K2,1690565.66
+China,CHN,1995,Forest area (sq. km),AG.LND.FRST.K2,1670705.7
+China,CHN,1994,Forest area (sq. km),AG.LND.FRST.K2,1650845.74
+China,CHN,1993,Forest area (sq. km),AG.LND.FRST.K2,1630985.78
+China,CHN,1992,Forest area (sq. km),AG.LND.FRST.K2,1611125.82
+China,CHN,1991,Forest area (sq. km),AG.LND.FRST.K2,1591265.86
+China,CHN,1990,Forest area (sq. km),AG.LND.FRST.K2,1571405.9
+China,CHN,2020,Forest area (% of land area),AG.LND.FRST.ZS,23.3405957019611
+China,CHN,2019,Forest area (% of land area),AG.LND.FRST.ZS,23.1411655427356
+China,CHN,2018,Forest area (% of land area),AG.LND.FRST.ZS,22.9417353835101
+China,CHN,2017,Forest area (% of land area),AG.LND.FRST.ZS,22.7423102916965
+China,CHN,2016,Forest area (% of land area),AG.LND.FRST.ZS,22.5428773041647
+China,CHN,2015,Forest area (% of land area),AG.LND.FRST.ZS,22.3130941846073
+China,CHN,2014,Forest area (% of land area),AG.LND.FRST.ZS,22.1075946459969
+China,CHN,2013,Forest area (% of land area),AG.LND.FRST.ZS,21.9020948706353
+China,CHN,2012,Forest area (% of land area),AG.LND.FRST.ZS,21.6965960161134
+China,CHN,2011,Forest area (% of land area),AG.LND.FRST.ZS,21.49109623203
+China,CHN,2010,Forest area (% of land area),AG.LND.FRST.ZS,21.2855968996448
+China,CHN,2009,Forest area (% of land area),AG.LND.FRST.ZS,21.0350872157688
+China,CHN,2008,Forest area (% of land area),AG.LND.FRST.ZS,20.7845781828599
+China,CHN,2007,Forest area (% of land area),AG.LND.FRST.ZS,20.5340680339958
+China,CHN,2006,Forest area (% of land area),AG.LND.FRST.ZS,20.2835578851316
+China,CHN,2005,Forest area (% of land area),AG.LND.FRST.ZS,20.0330481613855
+China,CHN,2004,Forest area (% of land area),AG.LND.FRST.ZS,19.7825365378985
+China,CHN,2003,Forest area (% of land area),AG.LND.FRST.ZS,19.5320280602681
+China,CHN,2002,Forest area (% of land area),AG.LND.FRST.ZS,19.2815168805051
+China,CHN,2001,Forest area (% of land area),AG.LND.FRST.ZS,19.031006736957
+China,CHN,2000,Forest area (% of land area),AG.LND.FRST.ZS,18.7804969919467
+China,CHN,1999,Forest area (% of land area),AG.LND.FRST.ZS,18.5697548253474
+China,CHN,1998,Forest area (% of land area),AG.LND.FRST.ZS,18.359032585618
+China,CHN,1997,Forest area (% of land area),AG.LND.FRST.ZS,18.1483103458886
+China,CHN,1996,Forest area (% of land area),AG.LND.FRST.ZS,17.9375881061592
+China,CHN,1995,Forest area (% of land area),AG.LND.FRST.ZS,17.7268470575253
+China,CHN,1994,Forest area (% of land area),AG.LND.FRST.ZS,17.5162179683745
+China,CHN,1993,Forest area (% of land area),AG.LND.FRST.ZS,17.3054948343019
+China,CHN,1992,Forest area (% of land area),AG.LND.FRST.ZS,17.0947717002293
+China,CHN,1991,Forest area (% of land area),AG.LND.FRST.ZS,16.8840485661567
+China,CHN,1990,Forest area (% of land area),AG.LND.FRST.ZS,16.6733254320841
+China,CHN,2018,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,645
+China,CHN,2017,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,645
+China,CHN,2012,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,645
+China,CHN,2007,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,645
+China,CHN,2002,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,645
+China,CHN,1997,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,645
+China,CHN,1992,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,645
+China,CHN,1987,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,645
+China,CHN,1982,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,645
+China,CHN,1977,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,645
+China,CHN,1972,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,645
+China,CHN,1967,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,645
+China,CHN,1962,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,645
+China,CHN,2020,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6296.4
+China,CHN,2019,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6267.9
+China,CHN,2018,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6129.3
+China,CHN,2017,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6111.3
+China,CHN,2016,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6017.6
+China,CHN,2015,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5985.7
+China,CHN,2014,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5893.2
+China,CHN,2013,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5894.1
+China,CHN,2012,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5827.1
+China,CHN,2011,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5709.4
+China,CHN,2010,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5526.1
+China,CHN,2009,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5449.9
+China,CHN,2008,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5549.2
+China,CHN,2007,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5319.8
+China,CHN,2006,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5315.5
+China,CHN,2005,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5225.6
+China,CHN,2004,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5189.8
+China,CHN,2003,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4875.8
+China,CHN,2002,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4873.5
+China,CHN,2001,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4802.2
+China,CHN,2000,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4756.4
+China,CHN,1999,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4947.1
+China,CHN,1998,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4954
+China,CHN,1997,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4816.7
+China,CHN,1996,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4894.5
+China,CHN,1995,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4663.8
+China,CHN,1994,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4510.1
+China,CHN,1993,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4567.7
+China,CHN,1992,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4365.8
+China,CHN,1991,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4237.3
+China,CHN,2020,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.7231837927804
+China,CHN,2019,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.31071877840352
+China,CHN,2018,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.69390529382545
+China,CHN,2017,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.34913267883946
+China,CHN,2016,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.55564214957618
+China,CHN,2015,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.19218160303955
+China,CHN,2014,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.55923344660606
+China,CHN,2013,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.03987546926686
+China,CHN,2012,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.82709055579985
+China,CHN,2011,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.7088289021211
+China,CHN,2010,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.0035629002639
+China,CHN,2009,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.56888829067325
+China,CHN,2008,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.73363488969862
+China,CHN,2007,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.40096483008318
+China,CHN,2006,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.50857901571575
+China,CHN,2005,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.55425403392231
+China,CHN,2004,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.48364111373749
+China,CHN,2003,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.48740330983691
+China,CHN,2002,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.60909988461638
+China,CHN,2001,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.51300212008642
+China,CHN,2000,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.4750822457556
+China,CHN,1999,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.74900388024567
+China,CHN,1998,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.43557710151074
+China,CHN,1997,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.72533415242342
+China,CHN,1996,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.65182665075146
+China,CHN,1995,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.88044415982562
+China,CHN,1994,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.98715629417845
+China,CHN,1993,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,6.18688207614214
+China,CHN,1992,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.61316219284371
+China,CHN,1991,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.13883773180262
+China,CHN,1990,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.966308310992784
+China,CHN,1989,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.97565028966922
+China,CHN,1988,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.02255894629729
+China,CHN,1987,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.847702964733309
+China,CHN,1986,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.623424605798281
+China,CHN,1985,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.536046583129515
+China,CHN,1984,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.483945714588724
+China,CHN,1983,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.275698542655107
+China,CHN,1982,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.209664356764914
+China,CHN,1981,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.135296316146172
+China,CHN,1980,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.0298196364663713
+China,CHN,1979,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.4873083502658e-05
+China,CHN,2020,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+China,CHN,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+China,CHN,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+China,CHN,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+China,CHN,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+China,CHN,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+China,CHN,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+China,CHN,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.9964447021484
+China,CHN,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.9619293212891
+China,CHN,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.8487243652344
+China,CHN,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.6999969482422
+China,CHN,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.2089004516602
+China,CHN,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.9505767822266
+China,CHN,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.7022018432617
+China,CHN,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.461051940918
+China,CHN,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.2244262695313
+China,CHN,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.9896697998047
+China,CHN,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.7543792724609
+China,CHN,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.5162048339844
+China,CHN,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.2727890014648
+China,CHN,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.0217971801758
+China,CHN,2019,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,14.45
+China,CHN,2018,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,13.71
+China,CHN,2017,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,13.13
+China,CHN,2016,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,12.56
+China,CHN,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,12.18
+China,CHN,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,11.94
+China,CHN,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,11.45
+China,CHN,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,11.53
+China,CHN,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,11.34
+China,CHN,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,12.26
+China,CHN,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,13.43
+China,CHN,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,14.14
+China,CHN,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,14.88
+China,CHN,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,16.39
+China,CHN,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.44
+China,CHN,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,20.17
+China,CHN,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,23.86
+China,CHN,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,27
+China,CHN,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,28.36
+China,CHN,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.63
+China,CHN,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,30.506048980242
+China,CHN,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.7399014806871
+China,CHN,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,30.1834816771978
+China,CHN,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,30.5371754582264
+China,CHN,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.4721113943924
+China,CHN,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,31.2494841669185
+China,CHN,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,31.6777918019623
+China,CHN,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32.9312779040239
+China,CHN,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.2584735412724
+China,CHN,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,34.083614045282
+China,CHN,2014,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,3.24264414716579
+China,CHN,2013,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,3.30681161384248
+China,CHN,2012,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,3.27492519940008
+China,CHN,2011,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,3.30833235908697
+China,CHN,2010,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,3.23941926747374
+China,CHN,2009,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,3.25867916885475
+China,CHN,2008,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,3.24681518209229
+China,CHN,2007,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,3.25278427523013
+China,CHN,2006,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,3.23793573483074
+China,CHN,2005,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,3.2026272066031
+China,CHN,2004,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,3.11623538453979
+China,CHN,2003,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,3.06269139201469
+China,CHN,2002,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,3.02020306109456
+China,CHN,2001,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.98545980045174
+China,CHN,2000,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.94607047045601
+China,CHN,1999,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.86145642313073
+China,CHN,1998,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.99357161218154
+China,CHN,1997,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.9176304519282
+China,CHN,1996,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.85514794685287
+China,CHN,1995,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.95369710889231
+China,CHN,1994,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.84138018115252
+China,CHN,1993,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.84629304868305
+China,CHN,1992,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.75799280984575
+China,CHN,1991,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.71499296195575
+China,CHN,1990,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.49615935087306
+China,CHN,1989,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.97338768690684
+China,CHN,1988,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.98595213183608
+China,CHN,1987,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.93540474248334
+China,CHN,1986,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.88946185581421
+China,CHN,1985,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.84458699558173
+China,CHN,1984,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.6885507374131
+China,CHN,1983,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.61943694292607
+China,CHN,1982,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.58184096769319
+China,CHN,1981,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.44568343386552
+China,CHN,1980,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.45342194100935
+China,CHN,1979,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.49202954912523
+China,CHN,1978,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.47782381204809
+China,CHN,1977,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.40612682554029
+China,CHN,1976,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.39267236549856
+China,CHN,1975,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.36995589513117
+China,CHN,1974,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.25717682500227
+China,CHN,1973,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.27032508510554
+China,CHN,1972,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.26476844926571
+China,CHN,1971,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.2416979321586
+China,CHN,2016,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,403091.308
+China,CHN,2015,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,366949.356
+China,CHN,2014,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,353880.168
+China,CHN,2013,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,320389.457
+China,CHN,2012,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,277826.588
+China,CHN,2011,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,246191.379
+China,CHN,2010,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,199748.824
+China,CHN,2009,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,171916.294
+China,CHN,2008,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,149796.95
+China,CHN,2007,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,135433.311
+China,CHN,2006,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,103838.439
+China,CHN,2005,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,85026.729
+China,CHN,2004,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,71579.84
+China,CHN,2003,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,60795.193
+China,CHN,2002,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,54036.912
+China,CHN,2001,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,67212.443
+China,CHN,2000,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,59845.44
+China,CHN,1999,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,54616.298
+China,CHN,1998,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,50542.261
+China,CHN,1997,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,44194.684
+China,CHN,1996,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,44506.379
+China,CHN,1995,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,42471.194
+China,CHN,1994,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,41602.115
+China,CHN,1993,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,35756.917
+China,CHN,1992,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,30263.751
+China,CHN,1991,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,30802.8
+China,CHN,1990,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,29324.999
+China,CHN,1989,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,28844.622
+China,CHN,1988,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,27333.818
+China,CHN,1987,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,26622.42
+China,CHN,1986,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,26373.064
+China,CHN,1985,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,24840.258
+China,CHN,1984,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,24246.204
+China,CHN,1983,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,23457.799
+China,CHN,1982,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,22918.75
+China,CHN,1981,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,24407.552
+China,CHN,1980,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,27341.152
+China,CHN,1979,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,27799.527
+China,CHN,1978,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,26307.058
+China,CHN,1977,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,23256.114
+China,CHN,1976,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,19383.762
+China,CHN,1975,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,16985.544
+China,CHN,1974,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,14451.647
+China,CHN,1973,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,11477.71
+China,CHN,1972,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,9288.511
+China,CHN,1971,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,7179.986
+China,CHN,1970,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5507.834
+China,CHN,1969,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,3762.342
+China,CHN,1968,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,2687.911
+China,CHN,1967,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,2801.588
+China,CHN,1966,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,2570.567
+China,CHN,1965,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,2112.192
+China,CHN,1964,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,2031.518
+China,CHN,1963,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,1958.178
+China,CHN,1962,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,2324.878
+China,CHN,1961,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,2819.923
+China,CHN,1960,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,1994.848
+China,CHN,2016,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,4.10717929227832
+China,CHN,2015,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,3.73279048831028
+China,CHN,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,3.57637507655428
+China,CHN,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,3.22431090666098
+China,CHN,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,2.91430261160721
+China,CHN,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,2.65342471910112
+China,CHN,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,2.35815091546378
+China,CHN,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,2.22830645318084
+China,CHN,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,2.08195610568992
+China,CHN,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.93802577484077
+China,CHN,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.61442618133649
+China,CHN,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.4611612924291
+China,CHN,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.39754423711837
+China,CHN,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.37754498901049
+China,CHN,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.41891359204691
+China,CHN,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.90578983483377
+China,CHN,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.78958819888221
+China,CHN,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.73429118506287
+China,CHN,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.5637495204386
+China,CHN,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.41257999456635
+China,CHN,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.45214099736368
+China,CHN,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.37675798331858
+China,CHN,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.50519609971417
+China,CHN,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.35262005727191
+China,CHN,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.25150944098454
+China,CHN,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.33797818598812
+China,CHN,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.34929321419369
+China,CHN,1989,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.1975974970121
+China,CHN,1988,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.15356818417473
+China,CHN,1987,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.20479328501991
+China,CHN,1986,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.27469590385191
+China,CHN,1985,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.26313669622812
+China,CHN,1984,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.33594649748449
+China,CHN,1983,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.40716185330937
+China,CHN,1982,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.45031454421835
+China,CHN,1981,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.68153844599169
+China,CHN,1980,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.86350151334518
+China,CHN,1979,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.85967442818875
+China,CHN,1978,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.79918091373512
+China,CHN,1977,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.77485482403974
+China,CHN,1976,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.62045339587069
+China,CHN,1975,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.48266700809833
+China,CHN,1974,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.46269587357201
+China,CHN,1973,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.18504944647211
+China,CHN,1972,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.997075298276276
+China,CHN,1971,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.819041244875763
+China,CHN,1970,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.71380368972826
+China,CHN,1969,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.651784466438817
+China,CHN,1968,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.573202583712601
+China,CHN,1967,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.646668472372698
+China,CHN,1966,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.491702088857091
+China,CHN,1965,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.443763049021949
+China,CHN,1964,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.464960134284515
+China,CHN,1963,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.448407900040306
+China,CHN,1962,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.527950569170685
+China,CHN,1961,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.510793756227167
+China,CHN,1960,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.255511822118682
+China,CHN,2019,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.748948081784379
+China,CHN,2018,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.778374266474098
+China,CHN,2017,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.798720326625299
+China,CHN,2016,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.835480955764223
+China,CHN,2015,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.891475142610763
+China,CHN,2014,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.968333504665517
+China,CHN,2013,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.0379423054283
+China,CHN,2012,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.06895568877267
+China,CHN,2011,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.12167993361316
+China,CHN,2010,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.12189689685298
+China,CHN,2009,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.13052005873936
+China,CHN,2008,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.15354340382275
+China,CHN,2007,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.22860310557212
+China,CHN,2006,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.29191985751775
+China,CHN,2005,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.31762958361623
+China,CHN,2004,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.29142060324376
+China,CHN,2003,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.22532243200229
+China,CHN,2002,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.16333497598795
+China,CHN,2001,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.17596141291938
+China,CHN,2000,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.20808646479277
+China,CHN,1999,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.23511742505517
+China,CHN,1998,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.36458472623625
+China,CHN,1997,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.42518912363105
+China,CHN,1996,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.52523818600568
+China,CHN,1995,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.68646935632752
+China,CHN,1994,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.67676062170809
+China,CHN,1993,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.81163052902698
+China,CHN,1992,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,1.88593597555236
+China,CHN,1991,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,2.05086453498909
+China,CHN,1990,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,2.11544451265567
+China,CHN,2019,CO2 emissions (kt),EN.ATM.CO2E.KT,10707219.7265625
+China,CHN,2018,CO2 emissions (kt),EN.ATM.CO2E.KT,10502929.6875
+China,CHN,2017,CO2 emissions (kt),EN.ATM.CO2E.KT,10096009.765625
+China,CHN,2016,CO2 emissions (kt),EN.ATM.CO2E.KT,9874660.15625
+China,CHN,2015,CO2 emissions (kt),EN.ATM.CO2E.KT,9861099.609375
+China,CHN,2014,CO2 emissions (kt),EN.ATM.CO2E.KT,10006669.921875
+China,CHN,2013,CO2 emissions (kt),EN.ATM.CO2E.KT,9984570.3125
+China,CHN,2012,CO2 emissions (kt),EN.ATM.CO2E.KT,9541870.1171875
+China,CHN,2011,CO2 emissions (kt),EN.ATM.CO2E.KT,9282549.8046875
+China,CHN,2010,CO2 emissions (kt),EN.ATM.CO2E.KT,8474919.921875
+China,CHN,2009,CO2 emissions (kt),EN.ATM.CO2E.KT,7719069.82421875
+China,CHN,2008,CO2 emissions (kt),EN.ATM.CO2E.KT,7199600.09765625
+China,CHN,2007,CO2 emissions (kt),EN.ATM.CO2E.KT,6993180.17578125
+China,CHN,2006,CO2 emissions (kt),EN.ATM.CO2E.KT,6437470.21484375
+China,CHN,2005,CO2 emissions (kt),EN.ATM.CO2E.KT,5824629.8828125
+China,CHN,2004,CO2 emissions (kt),EN.ATM.CO2E.KT,5124819.82421875
+China,CHN,2003,CO2 emissions (kt),EN.ATM.CO2E.KT,4415910.15625
+China,CHN,2002,CO2 emissions (kt),EN.ATM.CO2E.KT,3810060.05859375
+China,CHN,2001,CO2 emissions (kt),EN.ATM.CO2E.KT,3529080
+China,CHN,2000,CO2 emissions (kt),EN.ATM.CO2E.KT,3346530
+China,CHN,1999,CO2 emissions (kt),EN.ATM.CO2E.KT,3153660
+China,CHN,1998,CO2 emissions (kt),EN.ATM.CO2E.KT,3236280
+China,CHN,1997,CO2 emissions (kt),EN.ATM.CO2E.KT,3134110
+China,CHN,1996,CO2 emissions (kt),EN.ATM.CO2E.KT,3070510
+China,CHN,1995,CO2 emissions (kt),EN.ATM.CO2E.KT,3088620
+China,CHN,1994,CO2 emissions (kt),EN.ATM.CO2E.KT,2767670
+China,CHN,1993,CO2 emissions (kt),EN.ATM.CO2E.KT,2645410
+China,CHN,1992,CO2 emissions (kt),EN.ATM.CO2E.KT,2418180
+China,CHN,1991,CO2 emissions (kt),EN.ATM.CO2E.KT,2302180
+China,CHN,1990,CO2 emissions (kt),EN.ATM.CO2E.KT,2173360
+China,CHN,2016,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1336397.813
+China,CHN,2015,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1328664.11
+China,CHN,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1264106.575
+China,CHN,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1235632.32
+China,CHN,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1177675.385
+China,CHN,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1124778.91
+China,CHN,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1093466.397
+China,CHN,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,952294.231
+China,CHN,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,970911.59
+China,CHN,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,904450.882
+China,CHN,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,899269.411
+China,CHN,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,850868.678
+China,CHN,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,839779.67
+China,CHN,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,727694.148
+China,CHN,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,653620.748
+China,CHN,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,659839.98
+China,CHN,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,649216.681
+China,CHN,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,597240.623
+China,CHN,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,559719.879
+China,CHN,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,558418.094
+China,CHN,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,511040.454
+China,CHN,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,468613.264
+China,CHN,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,424059.214
+China,CHN,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,428899.654
+China,CHN,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,386109.431
+China,CHN,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,356318.723
+China,CHN,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,330561.715
+China,CHN,1989,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,354730.912
+China,CHN,1988,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,343410.883
+China,CHN,1987,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,321786.584
+China,CHN,1986,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,303315.905
+China,CHN,1985,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,284826.891
+China,CHN,1984,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,271673.362
+China,CHN,1983,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,263987.33
+China,CHN,1982,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,258021.121
+China,CHN,1981,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,256583.657
+China,CHN,1980,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,273426.188
+China,CHN,1979,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,278655.33
+China,CHN,1978,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,282223.321
+China,CHN,1977,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,257694.758
+China,CHN,1976,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,239180.075
+China,CHN,1975,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,204358.243
+China,CHN,1974,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,182722.943
+China,CHN,1973,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,158949.782
+China,CHN,1972,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,138440.251
+China,CHN,1971,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,120189.592
+China,CHN,1970,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,94722.277
+China,CHN,1969,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,66904.415
+China,CHN,1968,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,48690.426
+China,CHN,1967,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,42533.533
+China,CHN,1966,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,44583.386
+China,CHN,1965,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,35027.184
+China,CHN,1964,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,27751.856
+China,CHN,1963,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,23289.117
+China,CHN,1962,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,21781.98
+China,CHN,1961,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,22354.032
+China,CHN,1960,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,23010.425
+China,CHN,2016,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,13.6168290282251
+China,CHN,2015,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,13.5158290125661
+China,CHN,2014,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,12.7752828718517
+China,CHN,2013,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,12.4350620126642
+China,CHN,2012,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,12.3533981208848
+China,CHN,2011,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,12.1227484708862
+China,CHN,2010,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,12.9090060881381
+China,CHN,2009,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,12.3432359486773
+China,CHN,2008,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,13.4942354492906
+China,CHN,2007,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,12.942525797021
+China,CHN,2006,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,13.9813742885084
+China,CHN,2005,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,14.6219476140722
+China,CHN,2004,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,16.3960863597581
+China,CHN,2003,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,16.4886626334036
+China,CHN,2002,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,17.1629230660158
+China,CHN,2001,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,18.7095762387467
+China,CHN,2000,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,19.4138519298225
+China,CHN,1999,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,18.9648362441255
+China,CHN,1998,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,17.3174225895078
+China,CHN,1997,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,17.8485319227143
+China,CHN,1996,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,16.674077092741
+China,CHN,1995,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,15.1906973065316
+China,CHN,1994,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,15.3427842541337
+China,CHN,1993,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,16.2245048855129
+China,CHN,1992,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,15.9669433623634
+China,CHN,1991,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,15.4773812326524
+China,CHN,1990,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,15.2097082397762
+China,CHN,1989,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,14.7280436652634
+China,CHN,1988,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,14.4929577246819
+China,CHN,1987,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,14.5623994968411
+China,CHN,1986,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,14.6602435604993
+China,CHN,1985,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,14.4835572196821
+China,CHN,1984,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,14.9689855131029
+China,CHN,1983,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,15.8357951883292
+China,CHN,1982,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,16.3277571639737
+China,CHN,1981,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,17.6771223864911
+China,CHN,1980,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,18.6360148660233
+China,CHN,1979,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,18.6408995908275
+China,CHN,1978,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,19.3016951022855
+China,CHN,1977,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,19.6666899881061
+China,CHN,1976,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,19.9950951089039
+China,CHN,1975,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,17.8384174642297
+China,CHN,1974,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,18.4939539924434
+China,CHN,1973,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,16.4112310884282
+China,CHN,1972,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,14.8608700101951
+China,CHN,1971,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,13.7103655985945
+China,CHN,1970,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,12.2758076626969
+China,CHN,1969,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,11.5904557409125
+China,CHN,1968,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,10.3833341153287
+China,CHN,1967,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,9.8176801191766
+China,CHN,1966,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,8.52798002328746
+China,CHN,1965,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,7.35907056294733
+China,CHN,1964,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,6.35165757448594
+China,CHN,1963,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,5.33303103587263
+China,CHN,1962,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,4.94641384995878
+China,CHN,1961,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,4.04915310528064
+China,CHN,1960,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,2.94731008050501
+China,CHN,2019,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.60593696057347
+China,CHN,2018,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.48733189390915
+China,CHN,2017,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.23098503140634
+China,CHN,2016,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.11538500511605
+China,CHN,2015,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.14644935672822
+China,CHN,2014,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.29423550644745
+China,CHN,2013,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.32414711459464
+China,CHN,2012,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.04618267539082
+China,CHN,2011,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.90134442946652
+China,CHN,2010,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.33541769065302
+China,CHN,2009,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.79831875382626
+China,CHN,2008,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.43507562169489
+China,CHN,2007,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.30636601507814
+China,CHN,2006,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.91027613220527
+China,CHN,2005,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.46770002977058
+China,CHN,2004,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.9541074584563
+China,CHN,2003,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.42743725260012
+China,CHN,2002,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.97567952092608
+China,CHN,2001,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.77476117466682
+China,CHN,2000,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.65041242787957
+China,CHN,1999,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.51741988529098
+China,CHN,1998,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.60583685941696
+China,CHN,1997,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.54790155071845
+China,CHN,1996,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.5218758983204
+China,CHN,1995,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.56347859285972
+China,CHN,1994,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.32219224976612
+China,CHN,1993,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.24484063677404
+China,CHN,1992,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.07574443977098
+China,CHN,1991,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.00053876501156
+China,CHN,1990,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.91454256354691
+China,CHN,2019,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.456755454764886
+China,CHN,2018,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.483192442755359
+China,CHN,2017,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.507667952113129
+China,CHN,2016,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.527715339003211
+China,CHN,2015,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.554095606868739
+China,CHN,2014,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.584458145000854
+China,CHN,2013,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.616900293127545
+China,CHN,2012,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.630886708395863
+China,CHN,2011,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.670492989265031
+China,CHN,2010,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.684556300865898
+China,CHN,2009,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.69810813514832
+China,CHN,2008,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.716890977788617
+China,CHN,2007,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.778182375225107
+China,CHN,2006,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.840400850032046
+China,CHN,2005,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.883572473637207
+China,CHN,2004,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.893153479226491
+China,CHN,2003,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.870188363702334
+China,CHN,2002,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.842471894639685
+China,CHN,2001,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.864888493726959
+China,CHN,2000,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.90853345268889
+China,CHN,1999,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.94990571727228
+China,CHN,1998,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,1.0642661658074
+China,CHN,1997,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,1.12404338260119
+China,CHN,1996,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,1.22369592625073
+China,CHN,1995,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,1.37782534852151
+China,CHN,1994,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,1.39861873341449
+China,CHN,1993,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,1.54338509013194
+China,CHN,1992,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,1.64477220713735
+China,CHN,1991,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,1.82937138329508
+China,CHN,1990,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,1.95078978390367
+China,CHN,2019,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.476032631503194
+China,CHN,2018,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.494735962847033
+China,CHN,2017,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.507667952113129
+China,CHN,2016,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.531033068401327
+China,CHN,2015,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.56662306557434
+China,CHN,2014,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.615474366795088
+China,CHN,2013,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.6597178349457
+China,CHN,2012,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.679429992362627
+China,CHN,2011,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.712941609023207
+China,CHN,2010,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.713079511214967
+China,CHN,2009,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.718560407080098
+China,CHN,2008,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.733194083048583
+China,CHN,2007,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.780902152823554
+China,CHN,2006,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.821146384406472
+China,CHN,2005,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.837487528562587
+China,CHN,2004,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.820829057569519
+China,CHN,2003,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.778816951311551
+China,CHN,2002,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.739417622406949
+China,CHN,2001,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.747443006469157
+China,CHN,2000,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.767861742229898
+China,CHN,1999,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.785042664991741
+China,CHN,1998,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.867332294371669
+China,CHN,1997,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.905852548944965
+China,CHN,1996,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.969443897397516
+China,CHN,1995,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,1.07192269419981
+China,CHN,1994,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,1.06575180652166
+China,CHN,1993,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,1.1514753412407
+China,CHN,1992,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,1.19870400515586
+China,CHN,1991,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,1.30353286855537
+China,CHN,1990,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,1.34458000848233
+China,CHN,2016,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,6951652.911
+China,CHN,2015,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,7272926.115
+China,CHN,2014,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,7431146.164
+China,CHN,2013,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,7499587.052
+China,CHN,2012,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,7470918.446
+China,CHN,2011,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,7315771.343
+China,CHN,2010,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,6574171.931
+China,CHN,2009,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,5613696.623
+China,CHN,2008,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,5734164.907
+China,CHN,2007,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,4978938.923
+China,CHN,2006,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,4909390.601
+China,CHN,2005,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,4428012.51
+China,CHN,2004,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,3838428.583
+China,CHN,2003,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,3321997.639
+China,CHN,2002,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2781045.466
+China,CHN,2001,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2430843.299
+China,CHN,2000,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2398390.349
+China,CHN,1999,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2380440.384
+China,CHN,1998,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2446772.747
+China,CHN,1997,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2611692.405
+China,CHN,1996,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2662579.364
+China,CHN,1995,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2571857.784
+China,CHN,1994,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2382537.908
+China,CHN,1993,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2230570.094
+China,CHN,1992,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2116449.387
+China,CHN,1991,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2051598.492
+China,CHN,1990,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1978302.496
+China,CHN,1989,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1921808.694
+China,CHN,1988,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1894247.522
+China,CHN,1987,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1771718.384
+China,CHN,1986,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1658745.448
+China,CHN,1985,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1585808.818
+China,CHN,1984,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1455388.296
+China,CHN,1983,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1322925.255
+China,CHN,1982,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1249878.615
+China,CHN,1981,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1125923.014
+China,CHN,1980,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1123583.468
+China,CHN,1979,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1148489.732
+China,CHN,1978,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1118361.66
+China,CHN,1977,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,999426.182
+China,CHN,1976,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,911132.156
+China,CHN,1975,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,907380.815
+China,CHN,1974,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,776736.606
+China,CHN,1973,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,784385.968
+China,CHN,1972,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,771349.783
+China,CHN,1971,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,737030.33
+China,CHN,1970,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,666411.244
+China,CHN,1969,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,501586.928
+China,CHN,1968,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,413058.214
+China,CHN,1967,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,383912.898
+China,CHN,1966,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,470153.404
+China,CHN,1965,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,433347.725
+China,CHN,1964,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,401899.533
+China,CHN,1963,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,406457.614
+China,CHN,1962,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,412262.475
+China,CHN,1961,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,522903.199
+China,CHN,1960,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,748988.417
+China,CHN,2016,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,70.8318048950971
+China,CHN,2015,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,73.9838045233016
+China,CHN,2014,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,75.1004671478554
+China,CHN,2013,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,75.4737704343906
+China,CHN,2012,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,78.3672912481735
+China,CHN,2011,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,78.8486120011856
+China,CHN,2010,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,77.611919044409
+China,CHN,2009,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,72.7623666156413
+China,CHN,2008,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,79.6964133058884
+China,CHN,2007,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,71.2477003839324
+China,CHN,2006,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,76.3286582212749
+China,CHN,2005,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,76.0941948267092
+China,CHN,2004,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,74.9425221649293
+China,CHN,2003,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,75.2724183490812
+China,CHN,2002,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,73.0253277945976
+China,CHN,2001,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,68.9258750691146
+China,CHN,2000,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,71.7202691614161
+China,CHN,1999,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,75.5887331385749
+China,CHN,1998,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,75.70179161046
+China,CHN,1997,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,83.4766562255286
+China,CHN,1996,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,86.8738535929629
+China,CHN,1995,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,83.370053973101
+China,CHN,1994,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,86.20203003003
+China,CHN,1993,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,84.3784672010531
+China,CHN,1992,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,87.522408877751
+China,CHN,1991,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,89.1150813790347
+China,CHN,1990,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,91.0250715942136
+China,CHN,1989,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,79.7914176746877
+China,CHN,1988,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,79.9428632447548
+China,CHN,1987,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,80.1788271685864
+China,CHN,1986,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,80.1725589449375
+China,CHN,1985,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,80.6389897889924
+China,CHN,1984,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,80.190734043198
+China,CHN,1983,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,79.3582532451392
+China,CHN,1982,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,79.0931937318566
+China,CHN,1981,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,77.5695504107845
+China,CHN,1980,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,76.5805147123145
+China,CHN,1979,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,76.8292563264745
+China,CHN,1978,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,76.486506143147
+China,CHN,1977,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,76.2739802700623
+China,CHN,1976,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,76.1692800539538
+China,CHN,1975,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,79.205211100797
+China,CHN,1974,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,78.6159133591158
+China,CHN,1973,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,80.9862034498947
+China,CHN,1972,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,82.8005495132714
+China,CHN,1971,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,84.0751275830335
+China,CHN,1970,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,86.3654941023277
+China,CHN,1969,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,86.8944312449973
+China,CHN,1968,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,88.0855190103067
+China,CHN,1967,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,88.6155877573131
+China,CHN,1966,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,89.9316807653999
+China,CHN,1965,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,91.0446151357098
+China,CHN,1964,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,91.9840537138061
+China,CHN,1963,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,93.0757087196023
+China,CHN,1962,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,93.6196257713158
+China,CHN,1961,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,94.7173696446363
+China,CHN,1960,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,95.9348256977258
+China,CHN,2016,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-364711.4375
+China,CHN,2015,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-382872
+China,CHN,2014,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-415197
+China,CHN,2013,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-246268
+China,CHN,2012,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-228593
+China,CHN,2011,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-301112
+China,CHN,2010,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-285418
+China,CHN,2009,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-335582
+China,CHN,2008,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-344264
+China,CHN,2007,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-386950
+China,CHN,2006,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-317003.3125
+China,CHN,2005,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-255787.5
+China,CHN,2004,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-262726.5
+China,CHN,2003,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-266620.40625
+China,CHN,2002,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-235030.59375
+China,CHN,2001,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-234498.5
+China,CHN,2000,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-256914.03125
+China,CHN,1999,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-226983.984375
+China,CHN,1998,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-210613.21875
+China,CHN,1997,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-242443.3125
+China,CHN,1996,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-231666.515625
+China,CHN,1995,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-233719.109375
+China,CHN,1994,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-234267.1015625
+China,CHN,1993,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-200477.21875
+China,CHN,1992,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-101474.109375
+China,CHN,1991,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-116741.6953125
+China,CHN,1990,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-126304.703125
+China,CHN,1989,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,222342.6173125
+China,CHN,1988,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,205248.275525
+China,CHN,1987,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,54638.4240250001
+China,CHN,1986,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,162281.626775
+China,CHN,1985,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,146418.9444
+China,CHN,1984,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,143288.366775
+China,CHN,1983,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,131289.14975
+China,CHN,1982,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,113225.5649
+China,CHN,1981,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,107242.4045875
+China,CHN,1980,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,110145.46915
+China,CHN,1979,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,98777.4861500001
+China,CHN,1978,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,101579.046025
+China,CHN,1977,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,95375.7127125001
+China,CHN,1976,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,81628.7982499998
+China,CHN,1975,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,76104.1741874999
+China,CHN,1974,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,65035.1249687499
+China,CHN,1973,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,64450.6063374999
+China,CHN,1972,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,58213.5100875
+China,CHN,1971,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,51992.9755937499
+China,CHN,1970,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,50660.4983687501
+China,CHN,2012,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,306.140351370637
+China,CHN,2011,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,306.140351370637
+China,CHN,2010,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,306.140351370637
+China,CHN,2009,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,295.655554660472
+China,CHN,2008,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,293.96910962899
+China,CHN,2007,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,260.464734269962
+China,CHN,2006,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,287.587677926417
+China,CHN,2005,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,230.791351649953
+China,CHN,2004,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,187.092332828296
+China,CHN,2003,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,221.34173120564
+China,CHN,2002,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,78.8768099573692
+China,CHN,2001,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,28.8260213389463
+China,CHN,2000,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,69.2058971476668
+China,CHN,1999,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,42.4666993461668
+China,CHN,1998,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,3.67021971360892
+China,CHN,1997,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,48.8908933332582
+China,CHN,1996,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,32.602482078535
+China,CHN,1995,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,28.339582894831
+China,CHN,1994,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,33.7191809000006
+China,CHN,1993,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,19.3073305202268
+China,CHN,1992,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,10.0025028505979
+China,CHN,1991,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-0.509914832278724
+China,CHN,2019,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,12705089.84375
+China,CHN,2018,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,12471089.84375
+China,CHN,2017,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,12035269.53125
+China,CHN,2016,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,11800830.078125
+China,CHN,2015,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,11818469.7265625
+China,CHN,2014,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,11938030.2734375
+China,CHN,2013,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,11878030.2734375
+China,CHN,2012,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,11385459.9609375
+China,CHN,2011,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,11098190.4296875
+China,CHN,2010,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,10218509.765625
+China,CHN,2009,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,9386580.078125
+China,CHN,2008,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,8810969.7265625
+China,CHN,2007,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,8555799.8046875
+China,CHN,2006,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,7946140.13671875
+China,CHN,2005,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,7266529.78515625
+China,CHN,2004,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,6503950.1953125
+China,CHN,2003,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,5718040.0390625
+China,CHN,2002,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,5068779.78515625
+China,CHN,2001,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,4761560.05859375
+China,CHN,2000,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,4568810.05859375
+China,CHN,1999,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,4376500
+China,CHN,1998,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,4443770.01953125
+China,CHN,1997,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,4325689.94140625
+China,CHN,1996,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,4330229.98046875
+China,CHN,1995,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,4309240.234375
+China,CHN,1994,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,3905929.93164063
+China,CHN,1993,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,3746360.10742188
+China,CHN,1992,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,3516610.10742188
+China,CHN,1991,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,3387709.9609375
+China,CHN,1990,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,3240290
+China,CHN,2012,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,219.952477201313
+China,CHN,2011,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,209.922084567424
+China,CHN,2010,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,187.303978348165
+China,CHN,2009,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,172.749830451021
+China,CHN,2008,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,157.458544241081
+China,CHN,2007,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,134.390133366855
+China,CHN,2006,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,120.244306209178
+China,CHN,2005,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,100.467166625795
+China,CHN,2004,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,82.8213787884812
+China,CHN,2003,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,59.9661477881996
+China,CHN,2002,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,40.6465906967026
+China,CHN,2001,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,32.1847145722599
+China,CHN,2000,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,30.5612564773515
+China,CHN,1999,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,30.4833691665674
+China,CHN,1998,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,32.0789043047631
+China,CHN,1997,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,31.3674181298634
+China,CHN,1996,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,33.1187499824035
+China,CHN,1995,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,29.5342897269101
+China,CHN,1994,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,18.5171908083368
+China,CHN,1993,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,12.9888993857901
+China,CHN,1992,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,7.18832481185629
+China,CHN,1991,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,3.66168357560444
+China,CHN,2010,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,183870
+China,CHN,2008,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,152999
+China,CHN,2005,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,146690
+China,CHN,2000,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,38094
+China,CHN,1990,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,5970.1
+China,CHN,2019,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,1176140.01464844
+China,CHN,2018,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,1158959.9609375
+China,CHN,2017,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,1131479.98046875
+China,CHN,2016,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,1120069.94628906
+China,CHN,2015,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,1159609.98535156
+China,CHN,2014,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,1161119.99511719
+China,CHN,2013,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,1147020.01953125
+China,CHN,2012,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,1122670.04394531
+China,CHN,2011,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,1121239.99023438
+China,CHN,2010,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,1072780.02929688
+China,CHN,2009,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,1023739.99023438
+China,CHN,2008,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,993609.985351563
+China,CHN,2007,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,974729.98046875
+China,CHN,2006,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,944229.98046875
+China,CHN,2005,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,904989.990234375
+China,CHN,2004,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,867140.014648438
+China,CHN,2003,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,820520.01953125
+China,CHN,2002,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,795520.01953125
+China,CHN,2001,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,802530.029296875
+China,CHN,2000,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,809200.012207031
+China,CHN,1999,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,809539.978027344
+China,CHN,1998,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,814880.004882813
+China,CHN,1997,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,812960.021972656
+China,CHN,1996,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,858020.01953125
+China,CHN,1995,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,849859.985351563
+China,CHN,1994,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,812510.009765625
+China,CHN,1993,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,790099.975585938
+China,CHN,1992,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,780750
+China,CHN,1991,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,775080.017089844
+China,CHN,1990,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,765390.014648438
+China,CHN,2012,Methane emissions (% change from 1990),EN.ATM.METH.ZG,72.3151645278343
+China,CHN,2011,Methane emissions (% change from 1990),EN.ATM.METH.ZG,66.9050820426587
+China,CHN,2010,Methane emissions (% change from 1990),EN.ATM.METH.ZG,61.4951175620261
+China,CHN,2009,Methane emissions (% change from 1990),EN.ATM.METH.ZG,55.6430755917436
+China,CHN,2008,Methane emissions (% change from 1990),EN.ATM.METH.ZG,51.1657865494488
+China,CHN,2007,Methane emissions (% change from 1990),EN.ATM.METH.ZG,42.0155175974275
+China,CHN,2006,Methane emissions (% change from 1990),EN.ATM.METH.ZG,36.9482058392582
+China,CHN,2005,Methane emissions (% change from 1990),EN.ATM.METH.ZG,30.5710436518473
+China,CHN,2004,Methane emissions (% change from 1990),EN.ATM.METH.ZG,23.0492373956397
+China,CHN,2003,Methane emissions (% change from 1990),EN.ATM.METH.ZG,12.7464574052768
+China,CHN,2002,Methane emissions (% change from 1990),EN.ATM.METH.ZG,6.77346077823997
+China,CHN,2001,Methane emissions (% change from 1990),EN.ATM.METH.ZG,3.4201650096862
+China,CHN,2000,Methane emissions (% change from 1990),EN.ATM.METH.ZG,2.60495029058618
+China,CHN,1999,Methane emissions (% change from 1990),EN.ATM.METH.ZG,3.83908113795715
+China,CHN,1998,Methane emissions (% change from 1990),EN.ATM.METH.ZG,4.26094737980744
+China,CHN,1997,Methane emissions (% change from 1990),EN.ATM.METH.ZG,4.90603888249697
+China,CHN,1996,Methane emissions (% change from 1990),EN.ATM.METH.ZG,7.52868985455939
+China,CHN,1995,Methane emissions (% change from 1990),EN.ATM.METH.ZG,5.75370485097009
+China,CHN,1994,Methane emissions (% change from 1990),EN.ATM.METH.ZG,0.334346205662261
+China,CHN,1993,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-1.3698360720221
+China,CHN,1992,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-0.647058245075771
+China,CHN,1991,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-0.333362834469131
+China,CHN,2019,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,552060
+China,CHN,2018,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,544840
+China,CHN,2017,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,548720
+China,CHN,2016,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,552360
+China,CHN,2015,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,549330
+China,CHN,2014,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,534100
+China,CHN,2013,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,522600
+China,CHN,2012,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,509380
+China,CHN,2011,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,497300
+China,CHN,2010,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,488160
+China,CHN,2009,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,475730
+China,CHN,2008,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,464320
+China,CHN,2007,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,449070
+China,CHN,2006,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,440230
+China,CHN,2005,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,427310
+China,CHN,2004,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,416780
+China,CHN,2003,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,400790
+China,CHN,2002,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,396770
+China,CHN,2001,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,377910
+China,CHN,2000,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,375420
+China,CHN,1999,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,380660
+China,CHN,1998,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,364990
+China,CHN,1997,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,356010
+China,CHN,1996,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,384120
+China,CHN,1995,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,358190
+China,CHN,1994,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,314550
+China,CHN,1993,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,301010
+China,CHN,1992,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,309200
+China,CHN,1991,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,303320
+China,CHN,1990,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,295770
+China,CHN,2012,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,72.4670651867095
+China,CHN,2011,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,67.0522135618222
+China,CHN,2010,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,61.6373619369349
+China,CHN,2009,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,55.0139770357758
+China,CHN,2008,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,47.6129772452037
+China,CHN,2007,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,44.5607932764539
+China,CHN,2006,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,40.6599710443168
+China,CHN,2005,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,35.2749424073282
+China,CHN,2004,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,32.3584312939913
+China,CHN,2003,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,24.4283984229169
+China,CHN,2002,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,23.9339664733253
+China,CHN,2001,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,23.9339664733253
+China,CHN,2000,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,21.6439179406864
+China,CHN,1999,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,21.6439179406864
+China,CHN,1998,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,21.6439179406864
+China,CHN,1997,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,18.5653278457154
+China,CHN,1996,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,24.4047239649254
+China,CHN,1995,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,19.8683335913242
+China,CHN,1994,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,6.7481310836528
+China,CHN,1993,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,1.99776003205159
+China,CHN,1992,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,3.95363448457973
+China,CHN,1991,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,1.41955692341313
+China,CHN,2010,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,8438
+China,CHN,2008,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,13500.6
+China,CHN,2005,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,10562.8
+China,CHN,2000,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,8034.4
+China,CHN,1990,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,4674.5
+China,CHN,2010,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,57054
+China,CHN,2008,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,44726.2
+China,CHN,2005,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,29000.7
+China,CHN,2000,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,10753.6
+China,CHN,1990,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,1708.6
+China,CHN,1994,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-407.479
+China,CHN,2009,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",EN.CLC.MDAT.ZS,7.95097147464036
+China,CHN,2010,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,2.350330403
+China,CHN,2000,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,2.486773922
+China,CHN,1990,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,2.942177506
+China,CHN,2010,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,4.203002079
+China,CHN,2000,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,3.988093971
+China,CHN,1990,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,3.084049739
+China,CHN,2010,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,6.553332482
+China,CHN,2000,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,6.474867893
+China,CHN,1990,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,6.026227245
+China,CHN,2021,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,29.7699843524314
+China,CHN,2020,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,29.0349980865991
+China,CHN,2019,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,28.3415047469535
+China,CHN,2018,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,27.68816041233
+China,CHN,2017,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,27.0795983426621
+China,CHN,2016,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,26.5254622817573
+China,CHN,2015,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.9626321510878
+China,CHN,2014,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.4053428921318
+China,CHN,2013,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.870916419706
+China,CHN,2012,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.356355016652
+China,CHN,2011,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.8570343522659
+China,CHN,2010,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.2701013302634
+China,CHN,2009,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.5512588074456
+China,CHN,2008,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.8633839754502
+China,CHN,2007,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.2019417475728
+China,CHN,2006,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,20.5677715061555
+China,CHN,2005,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,19.9622812413708
+China,CHN,2004,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,19.3852683679571
+China,CHN,2003,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,18.8280167649798
+China,CHN,2002,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,18.2966462043112
+China,CHN,2001,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,17.7922191296143
+China,CHN,2000,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,17.1269473209018
+China,CHN,1999,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.1326560685221
+China,CHN,1998,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.2348891045022
+China,CHN,1997,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.4231628965713
+China,CHN,1996,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.6846326639563
+China,CHN,1995,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.0027277971208
+China,CHN,1994,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.3764950685288
+China,CHN,1993,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.7997874308408
+China,CHN,1992,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.2657590324214
+China,CHN,1991,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.7738245364014
+China,CHN,1990,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.3288791694746
+China,CHN,1989,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.0457983283422
+China,CHN,1988,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,9.78715521545347
+China,CHN,1987,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,9.54976306115577
+China,CHN,1986,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,9.32456331611657
+China,CHN,1985,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,9.09980124448166
+China,CHN,1984,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.87601678200275
+China,CHN,1983,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.6582333799142
+China,CHN,1982,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.46203791281243
+China,CHN,1981,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.33698445997273
+China,CHN,1980,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.20299948534245
+China,CHN,1979,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.08101083069747
+China,CHN,1978,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,7.96958432906454
+China,CHN,1977,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,7.87504788251692
+China,CHN,1976,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,7.800977344644
+China,CHN,1975,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,7.75914218213762
+China,CHN,1974,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,7.73407919142556
+China,CHN,1973,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,7.73455620563757
+China,CHN,1972,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,7.75438650627008
+China,CHN,1971,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,7.78964885478032
+China,CHN,1970,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,7.87981131960187
+China,CHN,1969,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.00692968185673
+China,CHN,1968,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.13405275593601
+China,CHN,1967,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.24952912331853
+China,CHN,1966,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.36082458525972
+China,CHN,1965,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.44599411341122
+China,CHN,1964,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.44938161823142
+China,CHN,1963,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.47429781558912
+China,CHN,1962,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.52879733241209
+China,CHN,1961,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.44078566777217
+China,CHN,1960,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.12274019218373
+China,CHN,2018,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,591.8
+China,CHN,2017,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,591.8
+China,CHN,2012,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,598.8
+China,CHN,2007,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,568.7
+China,CHN,2002,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,552.18
+China,CHN,1997,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,539.9714285714
+China,CHN,1992,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,516.9333333333
+China,CHN,1987,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,488.636
+China,CHN,1982,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,460.465
+China,CHN,2018,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,21.0387855949376
+China,CHN,2017,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,21.0387855949376
+China,CHN,2012,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,21.2876390913292
+China,CHN,2007,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,20.2175690568452
+China,CHN,2002,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,19.630274805361
+China,CHN,1997,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,19.1962539930819
+China,CHN,1992,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,18.3772382001955
+China,CHN,1987,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,17.3712538661168
+China,CHN,1982,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,16.3697607451385
+China,CHN,2021,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,15.61604595
+China,CHN,2020,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,15.61605
+China,CHN,2019,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,15.61175
+China,CHN,2018,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,15.449041955767
+China,CHN,2017,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,15.449041955767
+China,CHN,2016,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,17.08
+China,CHN,2021,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,5.479008675
+China,CHN,2020,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,5.479009
+China,CHN,2019,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,5.406831
+China,CHN,2018,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,5.40683189597192
+China,CHN,2017,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,5.40683189597192
+China,CHN,2016,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,3.766775077
+China,CHN,2021,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,14.7465114593506
+China,CHN,2020,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,14.7465114593506
+China,CHN,2019,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,14.7363958358765
+China,CHN,2018,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,14.5876416474392
+China,CHN,2017,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,14.5876416474392
+China,CHN,2016,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,15.9392803086493
+China,CHN,2019,Ease of doing business rank (1=most business-friendly regulations),IC.BUS.EASE.XQ,32
+China,CHN,2021,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,7.26481605659396
+China,CHN,2020,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,7.69864251697224
+China,CHN,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,7.1436902775818
+China,CHN,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,7.04302025319625
+China,CHN,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,7.46356501656873
+China,CHN,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,8.0572875346436
+China,CHN,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,8.38701488219603
+China,CHN,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,8.64349139629661
+China,CHN,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,8.94289396230057
+China,CHN,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,9.11371387030751
+China,CHN,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,9.17765379535199
+China,CHN,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,9.32517694053669
+China,CHN,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,9.63618551442703
+China,CHN,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,10.1690478477936
+China,CHN,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,10.2461657566004
+China,CHN,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,10.6257605278405
+China,CHN,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,11.6414956029627
+China,CHN,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,12.916648166837
+China,CHN,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,12.3489989652141
+China,CHN,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,13.3014877126424
+China,CHN,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,13.9834613522186
+China,CHN,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,14.6762416552585
+China,CHN,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,16.0647884669624
+China,CHN,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,17.1590347605501
+China,CHN,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,17.8952767359135
+China,CHN,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,19.3254855475406
+China,CHN,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,19.5965196106392
+China,CHN,1994,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,19.4742827285474
+China,CHN,1993,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,19.3074684038403
+China,CHN,1992,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,21.3288613741081
+China,CHN,1991,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,24.034067384598
+China,CHN,1990,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,26.5843081183771
+China,CHN,1989,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,24.611551959103
+China,CHN,1988,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,25.2376865324238
+China,CHN,1987,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,26.3208996403948
+China,CHN,1986,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,26.6384965309993
+China,CHN,1985,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,27.9343575172623
+China,CHN,1984,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,31.5396955614797
+China,CHN,1983,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,32.5681223829416
+China,CHN,1982,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,32.7857031035218
+China,CHN,1981,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,31.3155812068692
+China,CHN,1980,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.6339383575962
+China,CHN,1979,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,30.7032786969509
+China,CHN,1978,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,27.6854178198334
+China,CHN,1977,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,28.9907692307692
+China,CHN,1976,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,32.3596332731045
+China,CHN,1975,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,31.952623786807
+China,CHN,1974,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,33.4264596668671
+China,CHN,1973,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,32.9257673608592
+China,CHN,1972,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,32.4165491302304
+China,CHN,1971,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,33.631812446579
+China,CHN,1970,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,34.7984383910164
+China,CHN,1969,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,37.5191112017124
+China,CHN,1968,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,41.6432544005504
+China,CHN,1967,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,39.8060416898896
+China,CHN,1966,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,37.1790120188489
+China,CHN,1965,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,37.5490196078431
+China,CHN,1964,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,38.0297979454385
+China,CHN,1963,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,39.8542017143315
+China,CHN,1962,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,38.9864050937876
+China,CHN,1961,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,35.7948551489085
+China,CHN,1960,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,23.1752941976736
+China,CHN,2020,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01286995410919
+China,CHN,2019,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01529002189636
+China,CHN,2018,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01431000232697
+China,CHN,2017,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01321995258331
+China,CHN,2016,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01013994216919
+China,CHN,2015,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01157999038696
+China,CHN,2014,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00947999954224
+China,CHN,2013,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00609004497528
+China,CHN,2012,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.997179985046387
+China,CHN,2011,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.992420017719269
+China,CHN,2010,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.98895001411438
+China,CHN,2009,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00335001945496
+China,CHN,2008,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.996969997882843
+China,CHN,2007,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.991550028324127
+China,CHN,2006,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.988039970397949
+China,CHN,2001,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.964619994163513
+China,CHN,1997,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.935779988765717
+China,CHN,1996,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.928520023822784
+China,CHN,1995,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.915570020675659
+China,CHN,1994,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.901910006999969
+China,CHN,1993,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.881250023841858
+China,CHN,1992,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.874170005321503
+China,CHN,1991,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.860360026359558
+China,CHN,1990,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.848609983921051
+China,CHN,1989,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.842719972133636
+China,CHN,1988,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.833199977874756
+China,CHN,1987,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.826499998569489
+China,CHN,1986,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.808640003204346
+China,CHN,1985,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.787370026111603
+China,CHN,1984,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.781639993190765
+China,CHN,1983,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.777639985084534
+China,CHN,1982,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.781080007553101
+China,CHN,1981,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.794979989528656
+China,CHN,1980,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.811959981918335
+China,CHN,1979,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.818159997463226
+China,CHN,1978,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.830439984798431
+China,CHN,1977,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.826040029525757
+China,CHN,1976,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.820949971675873
+China,CHN,2009,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,98.2946319580078
+China,CHN,2008,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,99.2769393920898
+China,CHN,2007,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,93.3478927612305
+China,CHN,2006,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,91.6324234008789
+China,CHN,1997,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,90.6408386230469
+China,CHN,1996,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,93.3232879638672
+China,CHN,1995,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,98.770637512207
+China,CHN,1994,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,103.513618469238
+China,CHN,1993,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,101.101722717285
+China,CHN,1992,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,99.2811584472656
+China,CHN,1991,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,102.951187133789
+China,CHN,1990,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,101.568061828613
+China,CHN,1989,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,100.40503692627
+China,CHN,2020,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,7.3
+China,CHN,2019,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,7.9
+China,CHN,2018,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.5
+China,CHN,2017,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,9.2
+China,CHN,2016,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,9.9
+China,CHN,2015,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,10.7
+China,CHN,2014,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,11.6
+China,CHN,2013,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,12.5
+China,CHN,2012,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,13.5
+China,CHN,2011,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,14.6
+China,CHN,2010,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,15.8
+China,CHN,2009,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,17
+China,CHN,2008,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,18.5
+China,CHN,2007,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,20.1
+China,CHN,2006,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,21.9
+China,CHN,2005,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,24
+China,CHN,2004,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,26.3
+China,CHN,2003,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,28.8
+China,CHN,2002,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,31.5
+China,CHN,2001,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,34.1
+China,CHN,2000,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,36.7
+China,CHN,1999,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,39.1
+China,CHN,1998,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,41.4
+China,CHN,1997,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,43.5
+China,CHN,1996,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,45.6
+China,CHN,1995,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,47.5
+China,CHN,1994,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,49.3
+China,CHN,1993,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,50.9
+China,CHN,1992,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,52.2
+China,CHN,1991,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,53.2
+China,CHN,1990,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,53.7
+China,CHN,1989,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,54
+China,CHN,1988,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,54
+China,CHN,1987,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,53.9
+China,CHN,1986,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,53.9
+China,CHN,1985,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,54.2
+China,CHN,1984,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,54.8
+China,CHN,1983,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,55.9
+China,CHN,1982,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,57.6
+China,CHN,1981,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,59.9
+China,CHN,1980,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,62.6
+China,CHN,1979,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,66
+China,CHN,1978,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,70
+China,CHN,1977,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,74.5
+China,CHN,1976,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,79.4
+China,CHN,1975,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,84.7
+China,CHN,1974,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,90.2
+China,CHN,1973,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,95.7
+China,CHN,1972,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,101.3
+China,CHN,1971,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,106.8
+China,CHN,1970,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,112.5
+China,CHN,1969,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,118.4
+China,CHN,2011,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,0.831
+China,CHN,2010,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,0.81
+China,CHN,2009,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,0.83
+China,CHN,2008,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,0.703
+China,CHN,2007,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,0.702
+China,CHN,2006,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,0.725
+China,CHN,2005,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,0.698
+China,CHN,2004,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,0.676
+China,CHN,2003,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,0.668
+China,CHN,2001,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,0.084
+China,CHN,2000,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,1.033
+China,CHN,1999,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,1.043
+China,CHN,1998,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,1.052
+China,CHN,1997,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,1.051
+China,CHN,1996,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,1.057
+China,CHN,1995,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,1.078
+China,CHN,1990,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,1.061
+China,CHN,2013,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,2.4
+China,CHN,2010,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,3.4
+China,CHN,2009,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,3.4
+China,CHN,2008,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,3.8
+China,CHN,2005,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,4.5
+China,CHN,2002,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,6.8
+China,CHN,2000,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,7.4
+China,CHN,1998,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,6.9
+China,CHN,1995,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,10.7
+China,CHN,1992,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,14.2
+China,CHN,1990,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,12.6
+China,CHN,1987,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,18.7
+China,CHN,2019,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.1
+China,CHN,2018,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.4
+China,CHN,2017,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.7
+China,CHN,2016,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.8
+China,CHN,2015,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,1.2
+China,CHN,2014,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,2.1
+China,CHN,2013,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,2.9
+China,CHN,2012,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,8.5
+China,CHN,2011,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,10.2
+China,CHN,2010,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,13.9
+China,CHN,2008,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,18
+China,CHN,2005,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,22.1
+China,CHN,2002,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,36.5
+China,CHN,1999,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,46
+China,CHN,1996,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,48.1
+China,CHN,1993,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,62.7
+China,CHN,1990,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,72
+China,CHN,2021,Population growth (annual %),SP.POP.GROW,0.0892522000412526
+China,CHN,2020,Population growth (annual %),SP.POP.GROW,0.238040870229883
+China,CHN,2019,Population growth (annual %),SP.POP.GROW,0.354740890170827
+China,CHN,2018,Population growth (annual %),SP.POP.GROW,0.467672053461959
+China,CHN,2017,Population growth (annual %),SP.POP.GROW,0.605245013482969
+China,CHN,2016,Population growth (annual %),SP.POP.GROW,0.573050906069647
+China,CHN,2015,Population growth (annual %),SP.POP.GROW,0.581456146657648
+China,CHN,2014,Population growth (annual %),SP.POP.GROW,0.630326389541893
+China,CHN,2013,Population growth (annual %),SP.POP.GROW,0.666072977690069
+China,CHN,2012,Population growth (annual %),SP.POP.GROW,0.678345458846803
+China,CHN,2011,Population growth (annual %),SP.POP.GROW,0.546457594880274
+China,CHN,2010,Population growth (annual %),SP.POP.GROW,0.482959688678361
+China,CHN,2009,Population growth (annual %),SP.POP.GROW,0.497381400884935
+China,CHN,2008,Population growth (annual %),SP.POP.GROW,0.51238693163744
+China,CHN,2007,Population growth (annual %),SP.POP.GROW,0.522271866392275
+China,CHN,2006,Population growth (annual %),SP.POP.GROW,0.558374367373002
+China,CHN,2005,Population growth (annual %),SP.POP.GROW,0.588124989556992
+China,CHN,2004,Population growth (annual %),SP.POP.GROW,0.593932815112141
+China,CHN,2003,Population growth (annual %),SP.POP.GROW,0.622860936133583
+China,CHN,2002,Population growth (annual %),SP.POP.GROW,0.669999567758626
+China,CHN,2001,Population growth (annual %),SP.POP.GROW,0.726380637838525
+China,CHN,2000,Population growth (annual %),SP.POP.GROW,0.787956592953992
+China,CHN,1999,Population growth (annual %),SP.POP.GROW,0.865851392993279
+China,CHN,1998,Population growth (annual %),SP.POP.GROW,0.959550406298151
+China,CHN,1997,Population growth (annual %),SP.POP.GROW,1.02345002419879
+China,CHN,1996,Population growth (annual %),SP.POP.GROW,1.04814151412165
+China,CHN,1995,Population growth (annual %),SP.POP.GROW,1.08650915088974
+China,CHN,1994,Population growth (annual %),SP.POP.GROW,1.13026063215591
+China,CHN,1993,Population growth (annual %),SP.POP.GROW,1.14961943083465
+China,CHN,1992,Population growth (annual %),SP.POP.GROW,1.2255362283362
+China,CHN,1991,Population growth (annual %),SP.POP.GROW,1.36443400840349
+China,CHN,1990,Population growth (annual %),SP.POP.GROW,1.46730321087928
+China,CHN,1989,Population growth (annual %),SP.POP.GROW,1.53316999599862
+China,CHN,1988,Population growth (annual %),SP.POP.GROW,1.61007108578698
+China,CHN,1987,Population growth (annual %),SP.POP.GROW,1.6036050865576
+China,CHN,1986,Population growth (annual %),SP.POP.GROW,1.48739892914903
+China,CHN,1985,Population growth (annual %),SP.POP.GROW,1.36169911825369
+China,CHN,1984,Population growth (annual %),SP.POP.GROW,1.31206876113779
+China,CHN,1983,Population growth (annual %),SP.POP.GROW,1.4449496950092
+China,CHN,1982,Population growth (annual %),SP.POP.GROW,1.47267476016581
+China,CHN,1981,Population growth (annual %),SP.POP.GROW,1.28095234429252
+China,CHN,1980,Population growth (annual %),SP.POP.GROW,1.25422105193987
+China,CHN,1979,Population growth (annual %),SP.POP.GROW,1.33392795351687
+China,CHN,1978,Population growth (annual %),SP.POP.GROW,1.33818233834084
+China,CHN,1977,Population growth (annual %),SP.POP.GROW,1.36277947570678
+China,CHN,1976,Population growth (annual %),SP.POP.GROW,1.54733797287665
+China,CHN,1975,Population growth (annual %),SP.POP.GROW,1.76639178162482
+China,CHN,1974,Population growth (annual %),SP.POP.GROW,2.06595501335632
+China,CHN,1973,Population growth (annual %),SP.POP.GROW,2.28339536396383
+China,CHN,1972,Population growth (annual %),SP.POP.GROW,2.45735692952286
+China,CHN,1971,Population growth (annual %),SP.POP.GROW,2.74691554961857
+China,CHN,1970,Population growth (annual %),SP.POP.GROW,2.76167556645304
+China,CHN,1969,Population growth (annual %),SP.POP.GROW,2.74000210569558
+China,CHN,1968,Population growth (annual %),SP.POP.GROW,2.61090262648529
+China,CHN,1967,Population growth (annual %),SP.POP.GROW,2.5706976197388
+China,CHN,1966,Population growth (annual %),SP.POP.GROW,2.78733183821693
+China,CHN,1965,Population growth (annual %),SP.POP.GROW,2.38136810251949
+China,CHN,1964,Population growth (annual %),SP.POP.GROW,2.32068298706855
+China,CHN,1963,Population growth (annual %),SP.POP.GROW,2.45764740395145
+China,CHN,1962,Population growth (annual %),SP.POP.GROW,0.820455548748518
+China,CHN,1961,Population growth (annual %),SP.POP.GROW,-1.01552778731319
+China,CHN,2021,"Population, total",SP.POP.TOTL,1412360000
+China,CHN,2020,"Population, total",SP.POP.TOTL,1411100000
+China,CHN,2019,"Population, total",SP.POP.TOTL,1407745000
+China,CHN,2018,"Population, total",SP.POP.TOTL,1402760000
+China,CHN,2017,"Population, total",SP.POP.TOTL,1396215000
+China,CHN,2016,"Population, total",SP.POP.TOTL,1387790000
+China,CHN,2015,"Population, total",SP.POP.TOTL,1379860000
+China,CHN,2014,"Population, total",SP.POP.TOTL,1371860000
+China,CHN,2013,"Population, total",SP.POP.TOTL,1363240000
+China,CHN,2012,"Population, total",SP.POP.TOTL,1354190000
+China,CHN,2011,"Population, total",SP.POP.TOTL,1345035000
+China,CHN,2010,"Population, total",SP.POP.TOTL,1337705000
+China,CHN,2009,"Population, total",SP.POP.TOTL,1331260000
+China,CHN,2008,"Population, total",SP.POP.TOTL,1324655000
+China,CHN,2007,"Population, total",SP.POP.TOTL,1317885000
+China,CHN,2006,"Population, total",SP.POP.TOTL,1311020000
+China,CHN,2005,"Population, total",SP.POP.TOTL,1303720000
+China,CHN,2004,"Population, total",SP.POP.TOTL,1296075000
+China,CHN,2003,"Population, total",SP.POP.TOTL,1288400000
+China,CHN,2002,"Population, total",SP.POP.TOTL,1280400000
+China,CHN,2001,"Population, total",SP.POP.TOTL,1271850000
+China,CHN,2000,"Population, total",SP.POP.TOTL,1262645000
+China,CHN,1999,"Population, total",SP.POP.TOTL,1252735000
+China,CHN,1998,"Population, total",SP.POP.TOTL,1241935000
+China,CHN,1997,"Population, total",SP.POP.TOTL,1230075000
+China,CHN,1996,"Population, total",SP.POP.TOTL,1217550000
+China,CHN,1995,"Population, total",SP.POP.TOTL,1204855000
+China,CHN,1994,"Population, total",SP.POP.TOTL,1191835000
+China,CHN,1993,"Population, total",SP.POP.TOTL,1178440000
+China,CHN,1992,"Population, total",SP.POP.TOTL,1164970000
+China,CHN,1991,"Population, total",SP.POP.TOTL,1150780000
+China,CHN,1990,"Population, total",SP.POP.TOTL,1135185000
+China,CHN,1989,"Population, total",SP.POP.TOTL,1118650000
+China,CHN,1988,"Population, total",SP.POP.TOTL,1101630000
+China,CHN,1987,"Population, total",SP.POP.TOTL,1084035000
+China,CHN,1986,"Population, total",SP.POP.TOTL,1066790000
+China,CHN,1985,"Population, total",SP.POP.TOTL,1051040000
+China,CHN,1984,"Population, total",SP.POP.TOTL,1036825000
+China,CHN,1983,"Population, total",SP.POP.TOTL,1023310000
+China,CHN,1982,"Population, total",SP.POP.TOTL,1008630000
+China,CHN,1981,"Population, total",SP.POP.TOTL,993885000
+China,CHN,1980,"Population, total",SP.POP.TOTL,981235000
+China,CHN,1979,"Population, total",SP.POP.TOTL,969005000
+China,CHN,1978,"Population, total",SP.POP.TOTL,956165000
+China,CHN,1977,"Population, total",SP.POP.TOTL,943455000
+China,CHN,1976,"Population, total",SP.POP.TOTL,930685000
+China,CHN,1975,"Population, total",SP.POP.TOTL,916395000
+China,CHN,1974,"Population, total",SP.POP.TOTL,900350000
+China,CHN,1973,"Population, total",SP.POP.TOTL,881940000
+China,CHN,1972,"Population, total",SP.POP.TOTL,862030000
+China,CHN,1971,"Population, total",SP.POP.TOTL,841105000
+China,CHN,1970,"Population, total",SP.POP.TOTL,818315000
+China,CHN,1969,"Population, total",SP.POP.TOTL,796025000
+China,CHN,1968,"Population, total",SP.POP.TOTL,774510000
+China,CHN,1967,"Population, total",SP.POP.TOTL,754550000
+China,CHN,1966,"Population, total",SP.POP.TOTL,735400000
+China,CHN,1965,"Population, total",SP.POP.TOTL,715185000
+China,CHN,1964,"Population, total",SP.POP.TOTL,698355000
+China,CHN,1963,"Population, total",SP.POP.TOTL,682335000
+China,CHN,1962,"Population, total",SP.POP.TOTL,665770000
+China,CHN,1961,"Population, total",SP.POP.TOTL,660330000
+China,CHN,1960,"Population, total",SP.POP.TOTL,667070000
+China,CHN,2021,Urban population growth (annual %),SP.URB.GROW,1.83853028231533
+China,CHN,2020,Urban population growth (annual %),SP.URB.GROW,2.07814005779212
+China,CHN,2019,Urban population growth (annual %),SP.URB.GROW,2.29017723362897
+China,CHN,2018,Urban population growth (annual %),SP.URB.GROW,2.50340050353808
+China,CHN,2017,Urban population growth (annual %),SP.URB.GROW,2.739663820353
+China,CHN,2016,Urban population growth (annual %),SP.URB.GROW,2.77564176920889
+China,CHN,2015,Urban population growth (annual %),SP.URB.GROW,2.84287054779151
+China,CHN,2014,Urban population growth (annual %),SP.URB.GROW,2.95349744191833
+China,CHN,2013,Urban population growth (annual %),SP.URB.GROW,3.048365006284
+China,CHN,2012,Urban population growth (annual %),SP.URB.GROW,3.13065659552565
+China,CHN,2011,Urban population growth (annual %),SP.URB.GROW,3.12337717694482
+China,CHN,2010,Urban population growth (annual %),SP.URB.GROW,3.25536549409244
+China,CHN,2009,Urban population growth (annual %),SP.URB.GROW,3.33810246782671
+China,CHN,2008,Urban population growth (annual %),SP.URB.GROW,3.43395768889026
+China,CHN,2007,Urban population growth (annual %),SP.URB.GROW,3.51125555182775
+China,CHN,2006,Urban population growth (annual %),SP.URB.GROW,3.67472809325703
+China,CHN,2005,Urban population growth (annual %),SP.URB.GROW,3.88247297575862
+China,CHN,2004,Urban population growth (annual %),SP.URB.GROW,3.97537212954358
+China,CHN,2003,Urban population growth (annual %),SP.URB.GROW,4.07840352649768
+China,CHN,2002,Urban population growth (annual %),SP.URB.GROW,4.19800114764631
+China,CHN,2001,Urban population growth (annual %),SP.URB.GROW,4.05956575767596
+China,CHN,2000,Urban population growth (annual %),SP.URB.GROW,3.64925271115854
+China,CHN,1999,Urban population growth (annual %),SP.URB.GROW,3.77008872976608
+China,CHN,1998,Urban population growth (annual %),SP.URB.GROW,3.90807856569896
+China,CHN,1997,Urban population growth (annual %),SP.URB.GROW,4.00828550795805
+China,CHN,1996,Urban population growth (annual %),SP.URB.GROW,4.08605174394273
+China,CHN,1995,Urban population growth (annual %),SP.URB.GROW,4.15963799418302
+China,CHN,1994,Urban population growth (annual %),SP.URB.GROW,4.24584059723498
+China,CHN,1993,Urban population growth (annual %),SP.URB.GROW,4.30154774283787
+China,CHN,1992,Urban population growth (annual %),SP.URB.GROW,4.42511729026799
+China,CHN,1991,Urban population growth (annual %),SP.URB.GROW,4.60168513214318
+China,CHN,1990,Urban population growth (annual %),SP.URB.GROW,4.30967848070248
+China,CHN,1989,Urban population growth (annual %),SP.URB.GROW,4.4026320383107
+China,CHN,1988,Urban population growth (annual %),SP.URB.GROW,4.51483099420354
+China,CHN,1987,Urban population growth (annual %),SP.URB.GROW,4.5315822084455
+China,CHN,1986,Urban population growth (annual %),SP.URB.GROW,4.4381005931631
+China,CHN,1985,Urban population growth (annual %),SP.URB.GROW,4.33904712359308
+China,CHN,1984,Urban population growth (annual %),SP.URB.GROW,4.3204330245138
+China,CHN,1983,Urban population growth (annual %),SP.URB.GROW,4.47484202161229
+China,CHN,1982,Urban population growth (annual %),SP.URB.GROW,5.29566624595188
+China,CHN,1981,Urban population growth (annual %),SP.URB.GROW,5.13186895071821
+China,CHN,1980,Urban population growth (annual %),SP.URB.GROW,5.15728370456645
+China,CHN,1979,Urban population growth (annual %),SP.URB.GROW,5.26137093097064
+China,CHN,1978,Urban population growth (annual %),SP.URB.GROW,3.48394507218723
+China,CHN,1977,Urban population growth (annual %),SP.URB.GROW,1.70583298538571
+China,CHN,1976,Urban population growth (annual %),SP.URB.GROW,1.89157239197393
+China,CHN,1975,Urban population growth (annual %),SP.URB.GROW,2.38901572313462
+China,CHN,1974,Urban population growth (annual %),SP.URB.GROW,2.69247959731461
+China,CHN,1973,Urban population growth (annual %),SP.URB.GROW,2.28339576291405
+China,CHN,1972,Urban population growth (annual %),SP.URB.GROW,1.83083167159415
+China,CHN,1971,Urban population growth (annual %),SP.URB.GROW,2.12429188312895
+China,CHN,1970,Urban population growth (annual %),SP.URB.GROW,2.02873595918483
+China,CHN,1969,Urban population growth (annual %),SP.URB.GROW,2.01239514705866
+China,CHN,1968,Urban population growth (annual %),SP.URB.GROW,1.88292890180956
+China,CHN,1967,Urban population growth (annual %),SP.URB.GROW,1.84240345667628
+China,CHN,1966,Urban population growth (annual %),SP.URB.GROW,1.83735115939042
+China,CHN,1965,Urban population growth (annual %),SP.URB.GROW,1.21054285461748
+China,CHN,1964,Urban population growth (annual %),SP.URB.GROW,5.32734351055203
+China,CHN,1963,Urban population growth (annual %),SP.URB.GROW,5.49364102057992
+China,CHN,1962,Urban population growth (annual %),SP.URB.GROW,3.87367811011942
+China,CHN,1961,Urban population growth (annual %),SP.URB.GROW,2.0535955782573
+China,CHN,2021,Urban population,SP.URB.TOTL,882894483
+China,CHN,2020,Urban population,SP.URB.TOTL,866810508
+China,CHN,2019,Urban population,SP.URB.TOTL,848982855
+China,CHN,2018,Urban population,SP.URB.TOTL,829760595
+China,CHN,2017,Urban population,SP.URB.TOTL,809246214
+China,CHN,2016,Urban population,SP.URB.TOTL,787376534
+China,CHN,2015,Urban population,SP.URB.TOTL,765822300
+China,CHN,2014,Urban population,SP.URB.TOTL,744357517
+China,CHN,2013,Urban population,SP.URB.TOTL,722694421
+China,CHN,2012,Urban population,SP.URB.TOTL,700996454
+China,CHN,2011,Urban population,SP.URB.TOTL,679390629
+China,CHN,2010,Urban population,SP.URB.TOTL,658498663
+China,CHN,2009,Urban population,SP.URB.TOTL,637407288
+China,CHN,2008,Urban population,SP.URB.TOTL,616481190
+China,CHN,2007,Urban population,SP.URB.TOTL,595670841
+China,CHN,2006,Urban population,SP.URB.TOTL,575118254
+China,CHN,2005,Urban population,SP.URB.TOTL,554367818
+China,CHN,2004,Urban population,SP.URB.TOTL,533257098
+China,CHN,2003,Urban population,SP.URB.TOTL,512473984
+China,CHN,2002,Urban population,SP.URB.TOTL,491993700
+China,CHN,2001,Urban population,SP.URB.TOTL,471767321
+China,CHN,2000,Urban population,SP.URB.TOTL,452999147
+China,CHN,1999,Urban population,SP.URB.TOTL,436766058
+China,CHN,1998,Urban population,SP.URB.TOTL,420606126
+China,CHN,1997,Urban population,SP.URB.TOTL,404485562
+China,CHN,1996,Urban population,SP.URB.TOTL,388593258
+China,CHN,1995,Urban population,SP.URB.TOTL,373035157
+China,CHN,1994,Urban population,SP.URB.TOTL,357836540
+China,CHN,1993,Urban population,SP.URB.TOTL,342961393
+China,CHN,1992,Urban population,SP.URB.TOTL,328521540
+China,CHN,1991,Urban population,SP.URB.TOTL,314301034
+China,CHN,1990,Urban population,SP.URB.TOTL,300165618
+China,CHN,1989,Urban population,SP.URB.TOTL,287504237
+China,CHN,1988,Urban population,SP.URB.TOTL,275121076
+China,CHN,1987,Urban population,SP.URB.TOTL,262976051
+China,CHN,1986,Urban population,SP.URB.TOTL,251325056
+China,CHN,1985,Urban population,SP.URB.TOTL,240414890
+China,CHN,1984,Urban population,SP.URB.TOTL,230206255
+China,CHN,1983,Urban population,SP.URB.TOTL,220472140
+China,CHN,1982,Urban population,SP.URB.TOTL,210823843
+China,CHN,1981,Urban population,SP.URB.TOTL,199949784
+China,CHN,1980,Urban population,SP.URB.TOTL,189947471
+China,CHN,1979,Urban population,SP.URB.TOTL,180399661
+China,CHN,1978,Urban population,SP.URB.TOTL,171153535
+China,CHN,1977,Urban population,SP.URB.TOTL,165293316
+China,CHN,1976,Urban population,SP.URB.TOTL,162497601
+China,CHN,1975,Urban population,SP.URB.TOTL,159452730
+China,CHN,1974,Urban population,SP.URB.TOTL,155688522
+China,CHN,1973,Urban population,SP.URB.TOTL,151552570
+China,CHN,1972,Urban population,SP.URB.TOTL,148131235
+China,CHN,1971,Urban population,SP.URB.TOTL,145443877
+China,CHN,1970,Urban population,SP.URB.TOTL,142386810
+China,CHN,1969,Urban population,SP.URB.TOTL,139527262
+China,CHN,1968,Urban population,SP.URB.TOTL,136747486
+China,CHN,1967,Urban population,SP.URB.TOTL,134196718
+China,CHN,1966,Urban population,SP.URB.TOTL,131746910
+China,CHN,1965,Urban population,SP.URB.TOTL,129348359
+China,CHN,1964,Urban population,SP.URB.TOTL,127791981
+China,CHN,1963,Urban population,SP.URB.TOTL,121162226
+China,CHN,1962,Urban population,SP.URB.TOTL,114685540
+China,CHN,1961,Urban population,SP.URB.TOTL,110327936
+China,CHN,1960,Urban population,SP.URB.TOTL,108085352
+China,CHN,2021,Urban population (% of total population),SP.URB.TOTL.IN.ZS,62.512
+China,CHN,2020,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.428
+China,CHN,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.308
+China,CHN,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.152
+China,CHN,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.96
+China,CHN,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.736
+China,CHN,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.5
+China,CHN,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.259
+China,CHN,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.013
+China,CHN,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.765
+China,CHN,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.511
+China,CHN,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.226
+China,CHN,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,47.88
+China,CHN,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,46.539
+China,CHN,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,45.199
+China,CHN,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,43.868
+China,CHN,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,42.522
+China,CHN,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41.144
+China,CHN,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,39.776
+China,CHN,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.425
+China,CHN,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37.093
+China,CHN,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,35.877
+China,CHN,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.865
+China,CHN,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,33.867
+China,CHN,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,32.883
+China,CHN,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,31.916
+China,CHN,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,30.961
+China,CHN,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,30.024
+China,CHN,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,29.103
+China,CHN,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,28.2
+China,CHN,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,27.312
+China,CHN,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,26.442
+China,CHN,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,25.701
+China,CHN,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,24.974
+China,CHN,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,24.259
+China,CHN,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,23.559
+China,CHN,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,22.874
+China,CHN,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,22.203
+China,CHN,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,21.545
+China,CHN,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,20.902
+China,CHN,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,20.118
+China,CHN,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,19.358
+China,CHN,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.617
+China,CHN,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.9
+China,CHN,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.52
+China,CHN,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.46
+China,CHN,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.4
+China,CHN,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.292
+China,CHN,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.184
+China,CHN,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.184
+China,CHN,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.292
+China,CHN,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.4
+China,CHN,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.528
+China,CHN,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.656
+China,CHN,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.785
+China,CHN,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.915
+China,CHN,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.086
+China,CHN,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.299
+China,CHN,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.757
+China,CHN,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.226
+China,CHN,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,16.708
+China,CHN,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,16.203
