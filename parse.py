@@ -1,33 +1,61 @@
 import numpy as np
 import matplotlib.pyplot as plt
+import math
+import random
 
-class DataPoint:
-  def __init__(self, year : int, code : str, value : int):
-    self.year = year
-    self.code = code
-    self.value = value
+RANGE = [1991, 2014]
+ALLCODES = ['AG.LND.AGRI.K2', 'AG.LND.AGRI.ZS', 'AG.LND.ARBL.ZS', 'AG.LND.FRST.K2', 'AG.LND.FRST.ZS',
+                  'AG.YLD.CREL.KG', 'EG.FEC.RNEW.ZS', 'EN.ATM.CO2E.EG.ZS', 'EN.ATM.CO2E.GF.KT', 'EN.ATM.CO2E.GF.ZS',
+                  'EN.ATM.CO2E.KD.GD', 'EN.ATM.CO2E.KT', 'EN.ATM.CO2E.LF.KT', 'EN.ATM.CO2E.LF.ZS', 'EN.ATM.CO2E.PC',
+                  'EN.ATM.CO2E.PP.GD', 'EN.ATM.CO2E.PP.GD.KD', 'EN.ATM.CO2E.SF.KT', 'EN.ATM.CO2E.SF.ZS',
+                  'EN.ATM.GHGT.KT.CE', 'EN.ATM.METH.KT.CE', 'EN.ATM.NOXE.KT.CE', 'EN.URB.MCTY.TL.ZS', 'SP.POP.GROW',
+                  'SP.URB.GROW', 'SP.URB.TOTL', 'SP.URB.TOTL.IN.ZS']
 
-def getData(filename:str, code_to_get:str):
 
+def noCommas(string):
+    quotes = False
+    output = ''
+    for char in string:
+        if char == '\"':
+            quotes = True
+        if not quotes:
+            output += char
+        if char != ',' and quotes == True:
+            output += char
+    return output
+
+
+def distance(point1, point2): # assume size are the same
+    total = 0
+    for a in range(len(point1)):
+        total += (point1[a]-point2[a]) ** 2
+    return math.sqrt(total)
+
+def getNewCenter(objs):
+    newCenters = [None]*len(objs)
+    for a in range(len(newCenters)): # need to do this b/c weird doubly linked list things in python
+        newCenters[a] = []
+    for center in range(len(objs)):
+        for i in range(len(ALLCODES)):
+            total = 0
+            for field in objs[center]:
+                total += objs[center][field][i]
+            newCenters[center].append(total / max(len(objs[center].keys()), 1))
+    return newCenters
+
+def getData(filename: str, dictionary: dict, possibleFields: list):
     file = open(filename, 'r')
     lines = file.readlines()
     lines = lines[2:]
 
-    #Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
-    YEAR = 2
-    CODE = 4
-    VALUE = 5
+    # Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+    YEAR = 2; CODE = 4; VALUE = 5
+    x = []; y = []
 
-    x = []
-    y = []
-
-    # Strips the newline character
     for line in lines:
-        cells = line.split(",")
-
-        year = ""
-        code = ""
-        value = ""
+        newLine = noCommas(line)
+        cells = newLine.split(",")
+        year = ""; code = ""; value = ""
 
         for i in range(len(cells)):
             if i == YEAR:
@@ -36,22 +64,73 @@ def getData(filename:str, code_to_get:str):
                 code = cells[i]
             elif i == VALUE:
                 value = cells[i]
+                value = value[:len(value)-1] # remove extra new line character
 
-        if code == code_to_get:
-            x.append(int(year))
-            y.append(float(value))
+        if RANGE[0] <= int(year) <= RANGE[1] and code in possibleFields:
+            dictionary[year][possibleFields.index(code)] = float(value)
 
     file.close()
-    return x, y
+    return dictionary
+
+def normalize(dict):
+    for x in range(0, len(ALLCODES)):
+        max = -math.inf
+        min = math.inf
+        for y in dict.keys():
+            if dict[y][x] < min:
+                min = dict[y][x]
+            if dict[y][x] > max:
+                max = dict[y][x]
+        for y in dict.keys():
+            dict[y][x] = (dict[y][x] - min) / (max - min)
+
+def getRandomCenters(val):
+    centers = []
+    for i in range(val):
+        centers.append([])
+    for i in range(len(ALLCODES)):
+        centers[0].append(random.random())
+        centers[1].append(random.random())
+    return centers
 
 
+def KMeansClustering(dict):
+    centers = getRandomCenters(2)
+    end = False
+    while end == False:
+        centerObjs = [None]*len(centers)
+        for i in range(len(centerObjs)):
+            centerObjs[i] = {}
+        for key in dict.keys():
+            distances = []*len(centers)
+            min = (math.inf, None)
+            for center in range(len(centers)):
+                if distance(centers[center], dict[key]) < min[0]:
+                    min = (distance(centers[center], dict[key]), center)
+            centerObjs[min[1]][key] = dict[key]
+        newCenters = getNewCenter(centerObjs)
+        if newCenters == centers:
+            print("Center 1: " + str(newCenters[0]))
+            print("Years in center 1: " + str(centerObjs[0].keys()))
+            print("Center 2: " + str(newCenters[1]))
+            print("Years in center 2: " + str(centerObjs[1].keys()))
+            end = True
+        else:
+            centers = newCenters
 
 
 def main():
-    
-    x, y = getData("pakistan.csv", "AG.LND.ARBL.ZS")
-    plt.scatter(x, y, c='#0000FF')
-    plt.show()
+    chinaDict = {}
+    pakistanDict = {}
+    for i in range(RANGE[0], RANGE[1]+1):
+        chinaDict[str(i)] = [None]*len(ALLCODES)
+        pakistanDict[str(i)] = [None]*len(ALLCODES)
+    getData("china.csv", chinaDict, ALLCODES)
+    getData("pakistan.csv", pakistanDict, ALLCODES)
+    normalize(chinaDict)
+    normalize(pakistanDict)
+    KMeansClustering(chinaDict)
+    KMeansClustering(pakistanDict)
 
 if __name__ == '__main__':
     main()
