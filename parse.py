@@ -10,7 +10,7 @@ ALLCODES = ['AG.LND.AGRI.K2', 'AG.LND.AGRI.ZS', 'AG.LND.ARBL.ZS', 'AG.LND.FRST.K
                   'EN.ATM.CO2E.PP.GD', 'EN.ATM.CO2E.PP.GD.KD', 'EN.ATM.CO2E.SF.KT', 'EN.ATM.CO2E.SF.ZS',
                   'EN.ATM.GHGT.KT.CE', 'EN.ATM.METH.KT.CE', 'EN.ATM.NOXE.KT.CE', 'EN.URB.MCTY.TL.ZS', 'SP.POP.GROW',
                   'SP.URB.GROW', 'SP.URB.TOTL', 'SP.URB.TOTL.IN.ZS']
-
+NUM_CENTERS = 3
 
 def noCommas(string):
     quotes = False
@@ -89,13 +89,13 @@ def getRandomCenters(val):
     for i in range(val):
         centers.append([])
     for i in range(len(ALLCODES)):
-        centers[0].append(random.random())
-        centers[1].append(random.random())
+        for a in range(0, val):
+            centers[a].append(random.random())
     return centers
 
 
 def KMeansClustering(dict):
-    centers = getRandomCenters(2)
+    centers = getRandomCenters(NUM_CENTERS)
     end = False
     while end == False:
         centerObjs = [None]*len(centers)
@@ -110,10 +110,9 @@ def KMeansClustering(dict):
             centerObjs[min[1]][key] = dict[key]
         newCenters = getNewCenter(centerObjs)
         if newCenters == centers:
-            print("Center 1: " + str(newCenters[0]))
-            print("Years in center 1: " + str(centerObjs[0].keys()))
-            print("Center 2: " + str(newCenters[1]))
-            print("Years in center 2: " + str(centerObjs[1].keys()))
+            for center in range(NUM_CENTERS):
+                # print("Center "+str(center+1)+": " + str(newCenters[center]))
+                print("Years in center "+str(center+1)+": " + str(centerObjs[center].keys()))
             end = True
         else:
             centers = newCenters
