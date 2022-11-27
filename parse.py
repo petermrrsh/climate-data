@@ -128,8 +128,18 @@ def main():
     getData("pakistan.csv", pakistanDict, ALLCODES)
     normalize(chinaDict)
     normalize(pakistanDict)
-    KMeansClustering(chinaDict)
-    KMeansClustering(pakistanDict)
+    total = {}
+    for a in range(1000):
+        for x in KMeansClustering(pakistanDict):
+            a2 = list({int(k):[float(i) for i in v] for k,v in x.items()}.keys())
+            if (a2 != []):
+                if str(min(a2))+"-"+str(max(a2)) in total.keys():
+                    total[str(min(a2))+"-"+str(max(a2))] += 1
+                else:
+                    total[str(min(a2))+"-"+str(max(a2))] = 1
+            else:
+                print([])
+    print(total)
 
 if __name__ == '__main__':
     main()
