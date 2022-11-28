@@ -4,12 +4,18 @@ import math
 import random
 
 RANGE = [1991, 2014]
-ALLCODES = ['AG.LND.AGRI.K2', 'AG.LND.AGRI.ZS', 'AG.LND.ARBL.ZS', 'AG.LND.FRST.K2', 'AG.LND.FRST.ZS',
-                  'AG.YLD.CREL.KG', 'EG.FEC.RNEW.ZS', 'EN.ATM.CO2E.EG.ZS', 'EN.ATM.CO2E.GF.KT', 'EN.ATM.CO2E.GF.ZS',
-                  'EN.ATM.CO2E.KD.GD', 'EN.ATM.CO2E.KT', 'EN.ATM.CO2E.LF.KT', 'EN.ATM.CO2E.LF.ZS', 'EN.ATM.CO2E.PC',
-                  'EN.ATM.CO2E.PP.GD', 'EN.ATM.CO2E.PP.GD.KD', 'EN.ATM.CO2E.SF.KT', 'EN.ATM.CO2E.SF.ZS',
-                  'EN.ATM.GHGT.KT.CE', 'EN.ATM.METH.KT.CE', 'EN.ATM.NOXE.KT.CE', 'EN.URB.MCTY.TL.ZS', 'SP.POP.GROW',
-                  'SP.URB.GROW', 'SP.URB.TOTL', 'SP.URB.TOTL.IN.ZS']
+
+# ALLCODES = ['AG.LND.AGRI.K2', 'AG.LND.AGRI.ZS', 'AG.LND.ARBL.ZS', 'AG.LND.FRST.K2', 'AG.LND.FRST.ZS',
+#                   'AG.YLD.CREL.KG', 'EG.FEC.RNEW.ZS', 'EN.ATM.CO2E.EG.ZS', 'EN.ATM.CO2E.GF.KT', 'EN.ATM.CO2E.GF.ZS',
+#                   'EN.ATM.CO2E.KD.GD', 'EN.ATM.CO2E.KT', 'EN.ATM.CO2E.LF.KT', 'EN.ATM.CO2E.LF.ZS', 'EN.ATM.CO2E.PC',
+#                   'EN.ATM.CO2E.PP.GD', 'EN.ATM.CO2E.PP.GD.KD', 'EN.ATM.CO2E.SF.KT', 'EN.ATM.CO2E.SF.ZS',
+#                   'EN.ATM.GHGT.KT.CE', 'EN.ATM.METH.KT.CE', 'EN.ATM.NOXE.KT.CE', 'EN.URB.MCTY.TL.ZS', 'SP.POP.GROW',
+#                   'SP.URB.GROW', 'SP.URB.TOTL', 'SP.URB.TOTL.IN.ZS']
+
+# Filtered out redundant data values from the list above
+ALLCODES = ['AG.LND.AGRI.ZS', 'AG.LND.ARBL.ZS', 'AG.LND.FRST.ZS',
+                  'AG.YLD.CREL.KG', 'EG.FEC.RNEW.ZS', 'EN.ATM.CO2E.PC',
+                  'EN.ATM.METH.KT.CE', 'EN.ATM.NOXE.KT.CE', 'SP.URB.TOTL.IN.ZS']
 NUM_CENTERS = 3
 
 def noCommas(string):
@@ -97,6 +103,7 @@ def getRandomCenters(val):
 def KMeansClustering(dict):
     centers = getRandomCenters(NUM_CENTERS)
     end = False
+    centerObjs = None
     while end == False:
         centerObjs = [None]*len(centers)
         for i in range(len(centerObjs)):
@@ -110,12 +117,13 @@ def KMeansClustering(dict):
             centerObjs[min[1]][key] = dict[key]
         newCenters = getNewCenter(centerObjs)
         if newCenters == centers:
-            for center in range(NUM_CENTERS):
+            #for center in range(NUM_CENTERS):
                 # print("Center "+str(center+1)+": " + str(newCenters[center]))
-                print("Years in center "+str(center+1)+": " + str(centerObjs[center].keys()))
+                #print("Years in center "+str(center+1)+": " + str(centerObjs[center].keys()))
             end = True
         else:
             centers = newCenters
+    return centerObjs
 
 
 def main():
@@ -126,8 +134,10 @@ def main():
         pakistanDict[str(i)] = [None]*len(ALLCODES)
     getData("china.csv", chinaDict, ALLCODES)
     getData("pakistan.csv", pakistanDict, ALLCODES)
+    
     normalize(chinaDict)
     normalize(pakistanDict)
+
     total = {}
     for a in range(1000):
         for x in KMeansClustering(pakistanDict):
@@ -137,9 +147,23 @@ def main():
                     total[str(min(a2))+"-"+str(max(a2))] += 1
                 else:
                     total[str(min(a2))+"-"+str(max(a2))] = 1
-            else:
-                print([])
-    print(total)
+    print_list = []
+    for key in total.keys():
+        print_list.append("{}: {}".format(key, total[key]))
+    print_list.sort()
+    print("\n".join(print_list))
+
+    # Display the sum of normalized data vs year for each country
+    pakistan_x = pakistanDict.keys()
+    pakistan_y = list(map(lambda key: sum(pakistanDict[key]), pakistanDict.keys()))
+    china_x = chinaDict.keys()
+    china_y = list(map(lambda key: sum(chinaDict[key]), chinaDict.keys()))
+
+    plt.scatter(pakistan_x, pakistan_y)
+    plt.scatter(china_x, china_y)
+    plt.show()
+
+
 
 if __name__ == '__main__':
     main()
